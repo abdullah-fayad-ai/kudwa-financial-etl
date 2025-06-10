@@ -13,7 +13,11 @@ const app = express();
 const port = environment.port;
 
 // Middleware
-app.use(cors());
+app.use(
+  cors({
+    origin: "https://kudwa-financial-web.vercel.app",
+  })
+);
 app.use(express.json());
 
 // Routes
