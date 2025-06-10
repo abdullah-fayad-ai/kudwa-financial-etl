@@ -1,0 +1,4740 @@
+{
+  "data": [
+    {
+      "rootfi_id": 444121,
+      "rootfi_created_at": "2025-05-26T11:07:23.204Z",
+      "rootfi_updated_at": "2025-05-26T11:07:23.000Z",
+      "rootfi_deleted_at": null,
+      "rootfi_company_id": 19191,
+      "platform_id": "2022-06-01_2022-06-30",
+      "platform_unique_id": null,
+      "currency_id": null,
+      "period_end": "2022-06-30",
+      "period_start": "2022-06-01",
+      "revenue": [
+        {
+          "name": "Operating Revenue",
+          "value": 0,
+          "line_items": [
+            {
+              "name": "Sales",
+              "value": 0,
+              "account_id": "5695842000000000388"
+            },
+            {
+              "name": "Sales of Product Income",
+              "value": 0,
+              "account_id": "5695842000000090355"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 1",
+              "value": 0,
+              "account_id": "5695842000000090359"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 2",
+              "value": 0,
+              "account_id": "5695842000000090363"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 3",
+              "value": 0,
+              "account_id": "5695842000000090367"
+            },
+            {
+              "name": "Services",
+              "value": 0,
+              "account_id": "5695842000000090383"
+            },
+            {
+              "name": "Shipping Charge",
+              "value": 0,
+              "account_id": "5695842000000014001"
+            }
+          ]
+        }
+      ],
+      "cost_of_goods_sold": [
+        {
+          "name": "Cost of Goods Sold",
+          "value": 0,
+          "line_items": [
+            {
+              "name": "Cost of sales",
+              "value": 0,
+              "account_id": "5695842000000090453"
+            }
+          ]
+        }
+      ],
+      "gross_profit": 0,
+      "operating_expenses": [
+        {
+          "name": "Operating Expenses",
+          "value": 0,
+          "line_items": [
+            {
+              "name": "depreciation of office Equipments",
+              "value": 0,
+              "account_id": "5695842000000090005"
+            },
+            {
+              "name": "Office expenses",
+              "value": 0,
+              "account_id": "5695842000000089849"
+            },
+            {
+              "name": "Other Expense",
+              "value": 0,
+              "account_id": "5695842000000090011"
+            },
+            {
+              "name": "Other Expenses",
+              "value": 0,
+              "account_id": "5695842000000000460"
+            },
+            {
+              "name": "Payroll Expenses",
+              "value": 0,
+              "account_id": "5695842000000089873"
+            },
+            {
+              "name": "Purchase Discounts",
+              "value": 0,
+              "account_id": "5695842000000072001"
+            },
+            { "name": "Rent", "value": 0, "account_id": "5695842000000089885" }
+          ]
+        }
+      ],
+      "operating_profit": 0,
+      "non_operating_revenue": [
+        { "name": "Non Operating Revenue", "value": 0, "line_items": [] }
+      ],
+      "non_operating_expenses": [
+        {
+          "name": "Non Operating Expenses",
+          "value": 0,
+          "line_items": [
+            {
+              "name": "Exchange Gain or Loss",
+              "value": 0,
+              "account_id": "5695842000000000415"
+            }
+          ]
+        }
+      ],
+      "earnings_before_taxes": null,
+      "taxes": null,
+      "net_profit": 0,
+      "custom_fields": null,
+      "updated_at": null
+    },
+    {
+      "rootfi_id": 444122,
+      "rootfi_created_at": "2025-05-26T11:07:23.204Z",
+      "rootfi_updated_at": "2025-05-26T11:07:23.000Z",
+      "rootfi_deleted_at": null,
+      "rootfi_company_id": 19191,
+      "platform_id": "2022-07-01_2022-07-31",
+      "platform_unique_id": null,
+      "currency_id": null,
+      "period_end": "2022-07-31",
+      "period_start": "2022-07-01",
+      "revenue": [
+        {
+          "name": "Operating Revenue",
+          "value": 0,
+          "line_items": [
+            {
+              "name": "Sales",
+              "value": 0,
+              "account_id": "5695842000000000388"
+            },
+            {
+              "name": "Sales of Product Income",
+              "value": 0,
+              "account_id": "5695842000000090355"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 1",
+              "value": 0,
+              "account_id": "5695842000000090359"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 2",
+              "value": 0,
+              "account_id": "5695842000000090363"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 3",
+              "value": 0,
+              "account_id": "5695842000000090367"
+            },
+            {
+              "name": "Services",
+              "value": 0,
+              "account_id": "5695842000000090383"
+            },
+            {
+              "name": "Shipping Charge",
+              "value": 0,
+              "account_id": "5695842000000014001"
+            }
+          ]
+        }
+      ],
+      "cost_of_goods_sold": [
+        {
+          "name": "Cost of Goods Sold",
+          "value": 0,
+          "line_items": [
+            {
+              "name": "Cost of sales",
+              "value": 0,
+              "account_id": "5695842000000090453"
+            }
+          ]
+        }
+      ],
+      "gross_profit": 0,
+      "operating_expenses": [
+        {
+          "name": "Operating Expenses",
+          "value": 0,
+          "line_items": [
+            {
+              "name": "depreciation of office Equipments",
+              "value": 0,
+              "account_id": "5695842000000090005"
+            },
+            {
+              "name": "Office expenses",
+              "value": 0,
+              "account_id": "5695842000000089849"
+            },
+            {
+              "name": "Other Expense",
+              "value": 0,
+              "account_id": "5695842000000090011"
+            },
+            {
+              "name": "Other Expenses",
+              "value": 0,
+              "account_id": "5695842000000000460"
+            },
+            {
+              "name": "Payroll Expenses",
+              "value": 0,
+              "account_id": "5695842000000089873"
+            },
+            {
+              "name": "Purchase Discounts",
+              "value": 0,
+              "account_id": "5695842000000072001"
+            },
+            { "name": "Rent", "value": 0, "account_id": "5695842000000089885" }
+          ]
+        }
+      ],
+      "operating_profit": 0,
+      "non_operating_revenue": [
+        { "name": "Non Operating Revenue", "value": 0, "line_items": [] }
+      ],
+      "non_operating_expenses": [
+        {
+          "name": "Non Operating Expenses",
+          "value": 0,
+          "line_items": [
+            {
+              "name": "Exchange Gain or Loss",
+              "value": 0,
+              "account_id": "5695842000000000415"
+            }
+          ]
+        }
+      ],
+      "earnings_before_taxes": null,
+      "taxes": null,
+      "net_profit": 0,
+      "custom_fields": null,
+      "updated_at": null
+    },
+    {
+      "rootfi_id": 444123,
+      "rootfi_created_at": "2025-05-26T11:07:23.204Z",
+      "rootfi_updated_at": "2025-05-26T11:07:23.000Z",
+      "rootfi_deleted_at": null,
+      "rootfi_company_id": 19191,
+      "platform_id": "2022-08-01_2022-08-31",
+      "platform_unique_id": null,
+      "currency_id": null,
+      "period_end": "2022-08-31",
+      "period_start": "2022-08-01",
+      "revenue": [
+        {
+          "name": "Operating Revenue",
+          "value": 0,
+          "line_items": [
+            {
+              "name": "Sales",
+              "value": 0,
+              "account_id": "5695842000000000388"
+            },
+            {
+              "name": "Sales of Product Income",
+              "value": 0,
+              "account_id": "5695842000000090355"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 1",
+              "value": 0,
+              "account_id": "5695842000000090359"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 2",
+              "value": 0,
+              "account_id": "5695842000000090363"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 3",
+              "value": 0,
+              "account_id": "5695842000000090367"
+            },
+            {
+              "name": "Services",
+              "value": 0,
+              "account_id": "5695842000000090383"
+            },
+            {
+              "name": "Shipping Charge",
+              "value": 0,
+              "account_id": "5695842000000014001"
+            }
+          ]
+        }
+      ],
+      "cost_of_goods_sold": [
+        {
+          "name": "Cost of Goods Sold",
+          "value": 0,
+          "line_items": [
+            {
+              "name": "Cost of sales",
+              "value": 0,
+              "account_id": "5695842000000090453"
+            }
+          ]
+        }
+      ],
+      "gross_profit": 0,
+      "operating_expenses": [
+        {
+          "name": "Operating Expenses",
+          "value": 0,
+          "line_items": [
+            {
+              "name": "depreciation of office Equipments",
+              "value": 0,
+              "account_id": "5695842000000090005"
+            },
+            {
+              "name": "Office expenses",
+              "value": 0,
+              "account_id": "5695842000000089849"
+            },
+            {
+              "name": "Other Expense",
+              "value": 0,
+              "account_id": "5695842000000090011"
+            },
+            {
+              "name": "Other Expenses",
+              "value": 0,
+              "account_id": "5695842000000000460"
+            },
+            {
+              "name": "Payroll Expenses",
+              "value": 0,
+              "account_id": "5695842000000089873"
+            },
+            {
+              "name": "Purchase Discounts",
+              "value": 0,
+              "account_id": "5695842000000072001"
+            },
+            { "name": "Rent", "value": 0, "account_id": "5695842000000089885" }
+          ]
+        }
+      ],
+      "operating_profit": 0,
+      "non_operating_revenue": [
+        { "name": "Non Operating Revenue", "value": 0, "line_items": [] }
+      ],
+      "non_operating_expenses": [
+        {
+          "name": "Non Operating Expenses",
+          "value": 0,
+          "line_items": [
+            {
+              "name": "Exchange Gain or Loss",
+              "value": 0,
+              "account_id": "5695842000000000415"
+            }
+          ]
+        }
+      ],
+      "earnings_before_taxes": null,
+      "taxes": null,
+      "net_profit": 0,
+      "custom_fields": null,
+      "updated_at": null
+    },
+    {
+      "rootfi_id": 444124,
+      "rootfi_created_at": "2025-05-26T11:07:23.204Z",
+      "rootfi_updated_at": "2025-05-26T11:07:23.000Z",
+      "rootfi_deleted_at": null,
+      "rootfi_company_id": 19191,
+      "platform_id": "2022-09-01_2022-09-30",
+      "platform_unique_id": null,
+      "currency_id": null,
+      "period_end": "2022-09-30",
+      "period_start": "2022-09-01",
+      "revenue": [
+        {
+          "name": "Operating Revenue",
+          "value": 0,
+          "line_items": [
+            {
+              "name": "Sales",
+              "value": 0,
+              "account_id": "5695842000000000388"
+            },
+            {
+              "name": "Sales of Product Income",
+              "value": 0,
+              "account_id": "5695842000000090355"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 1",
+              "value": 0,
+              "account_id": "5695842000000090359"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 2",
+              "value": 0,
+              "account_id": "5695842000000090363"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 3",
+              "value": 0,
+              "account_id": "5695842000000090367"
+            },
+            {
+              "name": "Services",
+              "value": 0,
+              "account_id": "5695842000000090383"
+            },
+            {
+              "name": "Shipping Charge",
+              "value": 0,
+              "account_id": "5695842000000014001"
+            }
+          ]
+        }
+      ],
+      "cost_of_goods_sold": [
+        {
+          "name": "Cost of Goods Sold",
+          "value": 0,
+          "line_items": [
+            {
+              "name": "Cost of sales",
+              "value": 0,
+              "account_id": "5695842000000090453"
+            }
+          ]
+        }
+      ],
+      "gross_profit": 0,
+      "operating_expenses": [
+        {
+          "name": "Operating Expenses",
+          "value": 0,
+          "line_items": [
+            {
+              "name": "depreciation of office Equipments",
+              "value": 0,
+              "account_id": "5695842000000090005"
+            },
+            {
+              "name": "Office expenses",
+              "value": 0,
+              "account_id": "5695842000000089849"
+            },
+            {
+              "name": "Other Expense",
+              "value": 0,
+              "account_id": "5695842000000090011"
+            },
+            {
+              "name": "Other Expenses",
+              "value": 0,
+              "account_id": "5695842000000000460"
+            },
+            {
+              "name": "Payroll Expenses",
+              "value": 0,
+              "account_id": "5695842000000089873"
+            },
+            {
+              "name": "Purchase Discounts",
+              "value": 0,
+              "account_id": "5695842000000072001"
+            },
+            { "name": "Rent", "value": 0, "account_id": "5695842000000089885" }
+          ]
+        }
+      ],
+      "operating_profit": 0,
+      "non_operating_revenue": [
+        { "name": "Non Operating Revenue", "value": 0, "line_items": [] }
+      ],
+      "non_operating_expenses": [
+        {
+          "name": "Non Operating Expenses",
+          "value": 0,
+          "line_items": [
+            {
+              "name": "Exchange Gain or Loss",
+              "value": 0,
+              "account_id": "5695842000000000415"
+            }
+          ]
+        }
+      ],
+      "earnings_before_taxes": null,
+      "taxes": null,
+      "net_profit": 0,
+      "custom_fields": null,
+      "updated_at": null
+    },
+    {
+      "rootfi_id": 444125,
+      "rootfi_created_at": "2025-05-26T11:07:23.204Z",
+      "rootfi_updated_at": "2025-05-26T11:07:23.000Z",
+      "rootfi_deleted_at": null,
+      "rootfi_company_id": 19191,
+      "platform_id": "2022-10-01_2022-10-31",
+      "platform_unique_id": null,
+      "currency_id": null,
+      "period_end": "2022-10-31",
+      "period_start": "2022-10-01",
+      "revenue": [
+        {
+          "name": "Operating Revenue",
+          "value": 0,
+          "line_items": [
+            {
+              "name": "Sales",
+              "value": 0,
+              "account_id": "5695842000000000388"
+            },
+            {
+              "name": "Sales of Product Income",
+              "value": 0,
+              "account_id": "5695842000000090355"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 1",
+              "value": 0,
+              "account_id": "5695842000000090359"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 2",
+              "value": 0,
+              "account_id": "5695842000000090363"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 3",
+              "value": 0,
+              "account_id": "5695842000000090367"
+            },
+            {
+              "name": "Services",
+              "value": 0,
+              "account_id": "5695842000000090383"
+            },
+            {
+              "name": "Shipping Charge",
+              "value": 0,
+              "account_id": "5695842000000014001"
+            }
+          ]
+        }
+      ],
+      "cost_of_goods_sold": [
+        {
+          "name": "Cost of Goods Sold",
+          "value": 0,
+          "line_items": [
+            {
+              "name": "Cost of sales",
+              "value": 0,
+              "account_id": "5695842000000090453"
+            }
+          ]
+        }
+      ],
+      "gross_profit": 0,
+      "operating_expenses": [
+        {
+          "name": "Operating Expenses",
+          "value": 0,
+          "line_items": [
+            {
+              "name": "depreciation of office Equipments",
+              "value": 0,
+              "account_id": "5695842000000090005"
+            },
+            {
+              "name": "Office expenses",
+              "value": 0,
+              "account_id": "5695842000000089849"
+            },
+            {
+              "name": "Other Expense",
+              "value": 0,
+              "account_id": "5695842000000090011"
+            },
+            {
+              "name": "Other Expenses",
+              "value": 0,
+              "account_id": "5695842000000000460"
+            },
+            {
+              "name": "Payroll Expenses",
+              "value": 0,
+              "account_id": "5695842000000089873"
+            },
+            {
+              "name": "Purchase Discounts",
+              "value": 0,
+              "account_id": "5695842000000072001"
+            },
+            { "name": "Rent", "value": 0, "account_id": "5695842000000089885" }
+          ]
+        }
+      ],
+      "operating_profit": 0,
+      "non_operating_revenue": [
+        { "name": "Non Operating Revenue", "value": 0, "line_items": [] }
+      ],
+      "non_operating_expenses": [
+        {
+          "name": "Non Operating Expenses",
+          "value": 0,
+          "line_items": [
+            {
+              "name": "Exchange Gain or Loss",
+              "value": 0,
+              "account_id": "5695842000000000415"
+            }
+          ]
+        }
+      ],
+      "earnings_before_taxes": null,
+      "taxes": null,
+      "net_profit": 0,
+      "custom_fields": null,
+      "updated_at": null
+    },
+    {
+      "rootfi_id": 444126,
+      "rootfi_created_at": "2025-05-26T11:07:23.204Z",
+      "rootfi_updated_at": "2025-05-26T11:07:23.000Z",
+      "rootfi_deleted_at": null,
+      "rootfi_company_id": 19191,
+      "platform_id": "2022-11-01_2022-11-30",
+      "platform_unique_id": null,
+      "currency_id": null,
+      "period_end": "2022-11-30",
+      "period_start": "2022-11-01",
+      "revenue": [
+        {
+          "name": "Operating Revenue",
+          "value": 0,
+          "line_items": [
+            {
+              "name": "Sales",
+              "value": 0,
+              "account_id": "5695842000000000388"
+            },
+            {
+              "name": "Sales of Product Income",
+              "value": 0,
+              "account_id": "5695842000000090355"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 1",
+              "value": 0,
+              "account_id": "5695842000000090359"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 2",
+              "value": 0,
+              "account_id": "5695842000000090363"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 3",
+              "value": 0,
+              "account_id": "5695842000000090367"
+            },
+            {
+              "name": "Services",
+              "value": 0,
+              "account_id": "5695842000000090383"
+            },
+            {
+              "name": "Shipping Charge",
+              "value": 0,
+              "account_id": "5695842000000014001"
+            }
+          ]
+        }
+      ],
+      "cost_of_goods_sold": [
+        {
+          "name": "Cost of Goods Sold",
+          "value": 0,
+          "line_items": [
+            {
+              "name": "Cost of sales",
+              "value": 0,
+              "account_id": "5695842000000090453"
+            }
+          ]
+        }
+      ],
+      "gross_profit": 0,
+      "operating_expenses": [
+        {
+          "name": "Operating Expenses",
+          "value": 0,
+          "line_items": [
+            {
+              "name": "depreciation of office Equipments",
+              "value": 0,
+              "account_id": "5695842000000090005"
+            },
+            {
+              "name": "Office expenses",
+              "value": 0,
+              "account_id": "5695842000000089849"
+            },
+            {
+              "name": "Other Expense",
+              "value": 0,
+              "account_id": "5695842000000090011"
+            },
+            {
+              "name": "Other Expenses",
+              "value": 0,
+              "account_id": "5695842000000000460"
+            },
+            {
+              "name": "Payroll Expenses",
+              "value": 0,
+              "account_id": "5695842000000089873"
+            },
+            {
+              "name": "Purchase Discounts",
+              "value": 0,
+              "account_id": "5695842000000072001"
+            },
+            { "name": "Rent", "value": 0, "account_id": "5695842000000089885" }
+          ]
+        }
+      ],
+      "operating_profit": 0,
+      "non_operating_revenue": [
+        { "name": "Non Operating Revenue", "value": 0, "line_items": [] }
+      ],
+      "non_operating_expenses": [
+        {
+          "name": "Non Operating Expenses",
+          "value": 0,
+          "line_items": [
+            {
+              "name": "Exchange Gain or Loss",
+              "value": 0,
+              "account_id": "5695842000000000415"
+            }
+          ]
+        }
+      ],
+      "earnings_before_taxes": null,
+      "taxes": null,
+      "net_profit": 0,
+      "custom_fields": null,
+      "updated_at": null
+    },
+    {
+      "rootfi_id": 444127,
+      "rootfi_created_at": "2025-05-26T11:07:23.204Z",
+      "rootfi_updated_at": "2025-05-26T11:07:23.000Z",
+      "rootfi_deleted_at": null,
+      "rootfi_company_id": 19191,
+      "platform_id": "2022-12-01_2022-12-31",
+      "platform_unique_id": null,
+      "currency_id": null,
+      "period_end": "2022-12-31",
+      "period_start": "2022-12-01",
+      "revenue": [
+        {
+          "name": "Operating Revenue",
+          "value": 0,
+          "line_items": [
+            {
+              "name": "Sales",
+              "value": 0,
+              "account_id": "5695842000000000388"
+            },
+            {
+              "name": "Sales of Product Income",
+              "value": 0,
+              "account_id": "5695842000000090355"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 1",
+              "value": 0,
+              "account_id": "5695842000000090359"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 2",
+              "value": 0,
+              "account_id": "5695842000000090363"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 3",
+              "value": 0,
+              "account_id": "5695842000000090367"
+            },
+            {
+              "name": "Services",
+              "value": 0,
+              "account_id": "5695842000000090383"
+            },
+            {
+              "name": "Shipping Charge",
+              "value": 0,
+              "account_id": "5695842000000014001"
+            }
+          ]
+        }
+      ],
+      "cost_of_goods_sold": [
+        {
+          "name": "Cost of Goods Sold",
+          "value": 0,
+          "line_items": [
+            {
+              "name": "Cost of sales",
+              "value": 0,
+              "account_id": "5695842000000090453"
+            }
+          ]
+        }
+      ],
+      "gross_profit": 0,
+      "operating_expenses": [
+        {
+          "name": "Operating Expenses",
+          "value": 0,
+          "line_items": [
+            {
+              "name": "depreciation of office Equipments",
+              "value": 0,
+              "account_id": "5695842000000090005"
+            },
+            {
+              "name": "Office expenses",
+              "value": 0,
+              "account_id": "5695842000000089849"
+            },
+            {
+              "name": "Other Expense",
+              "value": 0,
+              "account_id": "5695842000000090011"
+            },
+            {
+              "name": "Other Expenses",
+              "value": 0,
+              "account_id": "5695842000000000460"
+            },
+            {
+              "name": "Payroll Expenses",
+              "value": 0,
+              "account_id": "5695842000000089873"
+            },
+            {
+              "name": "Purchase Discounts",
+              "value": 0,
+              "account_id": "5695842000000072001"
+            },
+            { "name": "Rent", "value": 0, "account_id": "5695842000000089885" }
+          ]
+        }
+      ],
+      "operating_profit": 0,
+      "non_operating_revenue": [
+        { "name": "Non Operating Revenue", "value": 0, "line_items": [] }
+      ],
+      "non_operating_expenses": [
+        {
+          "name": "Non Operating Expenses",
+          "value": 0,
+          "line_items": [
+            {
+              "name": "Exchange Gain or Loss",
+              "value": 0,
+              "account_id": "5695842000000000415"
+            }
+          ]
+        }
+      ],
+      "earnings_before_taxes": null,
+      "taxes": null,
+      "net_profit": 0,
+      "custom_fields": null,
+      "updated_at": null
+    },
+    {
+      "rootfi_id": 444128,
+      "rootfi_created_at": "2025-05-26T11:07:23.204Z",
+      "rootfi_updated_at": "2025-05-26T11:07:23.000Z",
+      "rootfi_deleted_at": null,
+      "rootfi_company_id": 19191,
+      "platform_id": "2023-01-01_2023-01-31",
+      "platform_unique_id": null,
+      "currency_id": null,
+      "period_end": "2023-01-31",
+      "period_start": "2023-01-01",
+      "revenue": [
+        {
+          "name": "Operating Revenue",
+          "value": 0,
+          "line_items": [
+            {
+              "name": "Sales",
+              "value": 0,
+              "account_id": "5695842000000000388"
+            },
+            {
+              "name": "Sales of Product Income",
+              "value": 0,
+              "account_id": "5695842000000090355"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 1",
+              "value": 0,
+              "account_id": "5695842000000090359"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 2",
+              "value": 0,
+              "account_id": "5695842000000090363"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 3",
+              "value": 0,
+              "account_id": "5695842000000090367"
+            },
+            {
+              "name": "Services",
+              "value": 0,
+              "account_id": "5695842000000090383"
+            },
+            {
+              "name": "Shipping Charge",
+              "value": 0,
+              "account_id": "5695842000000014001"
+            }
+          ]
+        }
+      ],
+      "cost_of_goods_sold": [
+        {
+          "name": "Cost of Goods Sold",
+          "value": 0,
+          "line_items": [
+            {
+              "name": "Cost of sales",
+              "value": 0,
+              "account_id": "5695842000000090453"
+            }
+          ]
+        }
+      ],
+      "gross_profit": 0,
+      "operating_expenses": [
+        {
+          "name": "Operating Expenses",
+          "value": 0,
+          "line_items": [
+            {
+              "name": "depreciation of office Equipments",
+              "value": 0,
+              "account_id": "5695842000000090005"
+            },
+            {
+              "name": "Office expenses",
+              "value": 0,
+              "account_id": "5695842000000089849"
+            },
+            {
+              "name": "Other Expense",
+              "value": 0,
+              "account_id": "5695842000000090011"
+            },
+            {
+              "name": "Other Expenses",
+              "value": 0,
+              "account_id": "5695842000000000460"
+            },
+            {
+              "name": "Payroll Expenses",
+              "value": 0,
+              "account_id": "5695842000000089873"
+            },
+            {
+              "name": "Purchase Discounts",
+              "value": 0,
+              "account_id": "5695842000000072001"
+            },
+            { "name": "Rent", "value": 0, "account_id": "5695842000000089885" }
+          ]
+        }
+      ],
+      "operating_profit": 0,
+      "non_operating_revenue": [
+        { "name": "Non Operating Revenue", "value": 0, "line_items": [] }
+      ],
+      "non_operating_expenses": [
+        {
+          "name": "Non Operating Expenses",
+          "value": 0,
+          "line_items": [
+            {
+              "name": "Exchange Gain or Loss",
+              "value": 0,
+              "account_id": "5695842000000000415"
+            }
+          ]
+        }
+      ],
+      "earnings_before_taxes": null,
+      "taxes": null,
+      "net_profit": 0,
+      "custom_fields": null,
+      "updated_at": null
+    },
+    {
+      "rootfi_id": 444129,
+      "rootfi_created_at": "2025-05-26T11:07:23.204Z",
+      "rootfi_updated_at": "2025-05-26T11:07:23.000Z",
+      "rootfi_deleted_at": null,
+      "rootfi_company_id": 19191,
+      "platform_id": "2023-02-01_2023-02-28",
+      "platform_unique_id": null,
+      "currency_id": null,
+      "period_end": "2023-02-28",
+      "period_start": "2023-02-01",
+      "revenue": [
+        {
+          "name": "Operating Revenue",
+          "value": 0,
+          "line_items": [
+            {
+              "name": "Sales",
+              "value": 0,
+              "account_id": "5695842000000000388"
+            },
+            {
+              "name": "Sales of Product Income",
+              "value": 0,
+              "account_id": "5695842000000090355"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 1",
+              "value": 0,
+              "account_id": "5695842000000090359"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 2",
+              "value": 0,
+              "account_id": "5695842000000090363"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 3",
+              "value": 0,
+              "account_id": "5695842000000090367"
+            },
+            {
+              "name": "Services",
+              "value": 0,
+              "account_id": "5695842000000090383"
+            },
+            {
+              "name": "Shipping Charge",
+              "value": 0,
+              "account_id": "5695842000000014001"
+            }
+          ]
+        }
+      ],
+      "cost_of_goods_sold": [
+        {
+          "name": "Cost of Goods Sold",
+          "value": 0,
+          "line_items": [
+            {
+              "name": "Cost of sales",
+              "value": 0,
+              "account_id": "5695842000000090453"
+            }
+          ]
+        }
+      ],
+      "gross_profit": 0,
+      "operating_expenses": [
+        {
+          "name": "Operating Expenses",
+          "value": 0,
+          "line_items": [
+            {
+              "name": "depreciation of office Equipments",
+              "value": 0,
+              "account_id": "5695842000000090005"
+            },
+            {
+              "name": "Office expenses",
+              "value": 0,
+              "account_id": "5695842000000089849"
+            },
+            {
+              "name": "Other Expense",
+              "value": 0,
+              "account_id": "5695842000000090011"
+            },
+            {
+              "name": "Other Expenses",
+              "value": 0,
+              "account_id": "5695842000000000460"
+            },
+            {
+              "name": "Payroll Expenses",
+              "value": 0,
+              "account_id": "5695842000000089873"
+            },
+            {
+              "name": "Purchase Discounts",
+              "value": 0,
+              "account_id": "5695842000000072001"
+            },
+            { "name": "Rent", "value": 0, "account_id": "5695842000000089885" }
+          ]
+        }
+      ],
+      "operating_profit": 0,
+      "non_operating_revenue": [
+        { "name": "Non Operating Revenue", "value": 0, "line_items": [] }
+      ],
+      "non_operating_expenses": [
+        {
+          "name": "Non Operating Expenses",
+          "value": 0,
+          "line_items": [
+            {
+              "name": "Exchange Gain or Loss",
+              "value": 0,
+              "account_id": "5695842000000000415"
+            }
+          ]
+        }
+      ],
+      "earnings_before_taxes": null,
+      "taxes": null,
+      "net_profit": 0,
+      "custom_fields": null,
+      "updated_at": null
+    },
+    {
+      "rootfi_id": 444130,
+      "rootfi_created_at": "2025-05-26T11:07:23.204Z",
+      "rootfi_updated_at": "2025-05-26T11:07:23.000Z",
+      "rootfi_deleted_at": null,
+      "rootfi_company_id": 19191,
+      "platform_id": "2023-03-01_2023-03-31",
+      "platform_unique_id": null,
+      "currency_id": null,
+      "period_end": "2023-03-31",
+      "period_start": "2023-03-01",
+      "revenue": [
+        {
+          "name": "Operating Revenue",
+          "value": 0,
+          "line_items": [
+            {
+              "name": "Sales",
+              "value": 0,
+              "account_id": "5695842000000000388"
+            },
+            {
+              "name": "Sales of Product Income",
+              "value": 0,
+              "account_id": "5695842000000090355"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 1",
+              "value": 0,
+              "account_id": "5695842000000090359"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 2",
+              "value": 0,
+              "account_id": "5695842000000090363"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 3",
+              "value": 0,
+              "account_id": "5695842000000090367"
+            },
+            {
+              "name": "Services",
+              "value": 0,
+              "account_id": "5695842000000090383"
+            },
+            {
+              "name": "Shipping Charge",
+              "value": 0,
+              "account_id": "5695842000000014001"
+            }
+          ]
+        }
+      ],
+      "cost_of_goods_sold": [
+        {
+          "name": "Cost of Goods Sold",
+          "value": 0,
+          "line_items": [
+            {
+              "name": "Cost of sales",
+              "value": 0,
+              "account_id": "5695842000000090453"
+            }
+          ]
+        }
+      ],
+      "gross_profit": 0,
+      "operating_expenses": [
+        {
+          "name": "Operating Expenses",
+          "value": 0,
+          "line_items": [
+            {
+              "name": "depreciation of office Equipments",
+              "value": 0,
+              "account_id": "5695842000000090005"
+            },
+            {
+              "name": "Office expenses",
+              "value": 0,
+              "account_id": "5695842000000089849"
+            },
+            {
+              "name": "Other Expense",
+              "value": 0,
+              "account_id": "5695842000000090011"
+            },
+            {
+              "name": "Other Expenses",
+              "value": 0,
+              "account_id": "5695842000000000460"
+            },
+            {
+              "name": "Payroll Expenses",
+              "value": 0,
+              "account_id": "5695842000000089873"
+            },
+            {
+              "name": "Purchase Discounts",
+              "value": 0,
+              "account_id": "5695842000000072001"
+            },
+            { "name": "Rent", "value": 0, "account_id": "5695842000000089885" }
+          ]
+        }
+      ],
+      "operating_profit": 0,
+      "non_operating_revenue": [
+        { "name": "Non Operating Revenue", "value": 0, "line_items": [] }
+      ],
+      "non_operating_expenses": [
+        {
+          "name": "Non Operating Expenses",
+          "value": 0,
+          "line_items": [
+            {
+              "name": "Exchange Gain or Loss",
+              "value": 0,
+              "account_id": "5695842000000000415"
+            }
+          ]
+        }
+      ],
+      "earnings_before_taxes": null,
+      "taxes": null,
+      "net_profit": 0,
+      "custom_fields": null,
+      "updated_at": null
+    },
+    {
+      "rootfi_id": 444131,
+      "rootfi_created_at": "2025-05-26T11:07:23.204Z",
+      "rootfi_updated_at": "2025-05-26T11:07:23.000Z",
+      "rootfi_deleted_at": null,
+      "rootfi_company_id": 19191,
+      "platform_id": "2023-04-01_2023-04-30",
+      "platform_unique_id": null,
+      "currency_id": null,
+      "period_end": "2023-04-30",
+      "period_start": "2023-04-01",
+      "revenue": [
+        {
+          "name": "Operating Revenue",
+          "value": 0,
+          "line_items": [
+            {
+              "name": "Sales",
+              "value": 0,
+              "account_id": "5695842000000000388"
+            },
+            {
+              "name": "Sales of Product Income",
+              "value": 0,
+              "account_id": "5695842000000090355"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 1",
+              "value": 0,
+              "account_id": "5695842000000090359"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 2",
+              "value": 0,
+              "account_id": "5695842000000090363"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 3",
+              "value": 0,
+              "account_id": "5695842000000090367"
+            },
+            {
+              "name": "Services",
+              "value": 0,
+              "account_id": "5695842000000090383"
+            },
+            {
+              "name": "Shipping Charge",
+              "value": 0,
+              "account_id": "5695842000000014001"
+            }
+          ]
+        }
+      ],
+      "cost_of_goods_sold": [
+        {
+          "name": "Cost of Goods Sold",
+          "value": 0,
+          "line_items": [
+            {
+              "name": "Cost of sales",
+              "value": 0,
+              "account_id": "5695842000000090453"
+            }
+          ]
+        }
+      ],
+      "gross_profit": 0,
+      "operating_expenses": [
+        {
+          "name": "Operating Expenses",
+          "value": 0,
+          "line_items": [
+            {
+              "name": "depreciation of office Equipments",
+              "value": 0,
+              "account_id": "5695842000000090005"
+            },
+            {
+              "name": "Office expenses",
+              "value": 0,
+              "account_id": "5695842000000089849"
+            },
+            {
+              "name": "Other Expense",
+              "value": 0,
+              "account_id": "5695842000000090011"
+            },
+            {
+              "name": "Other Expenses",
+              "value": 0,
+              "account_id": "5695842000000000460"
+            },
+            {
+              "name": "Payroll Expenses",
+              "value": 0,
+              "account_id": "5695842000000089873"
+            },
+            {
+              "name": "Purchase Discounts",
+              "value": 0,
+              "account_id": "5695842000000072001"
+            },
+            { "name": "Rent", "value": 0, "account_id": "5695842000000089885" }
+          ]
+        }
+      ],
+      "operating_profit": 0,
+      "non_operating_revenue": [
+        { "name": "Non Operating Revenue", "value": 0, "line_items": [] }
+      ],
+      "non_operating_expenses": [
+        {
+          "name": "Non Operating Expenses",
+          "value": 0,
+          "line_items": [
+            {
+              "name": "Exchange Gain or Loss",
+              "value": 0,
+              "account_id": "5695842000000000415"
+            }
+          ]
+        }
+      ],
+      "earnings_before_taxes": null,
+      "taxes": null,
+      "net_profit": 0,
+      "custom_fields": null,
+      "updated_at": null
+    },
+    {
+      "rootfi_id": 444132,
+      "rootfi_created_at": "2025-05-26T11:07:23.204Z",
+      "rootfi_updated_at": "2025-05-26T11:07:23.000Z",
+      "rootfi_deleted_at": null,
+      "rootfi_company_id": 19191,
+      "platform_id": "2023-05-01_2023-05-31",
+      "platform_unique_id": null,
+      "currency_id": null,
+      "period_end": "2023-05-31",
+      "period_start": "2023-05-01",
+      "revenue": [
+        {
+          "name": "Operating Revenue",
+          "value": 0,
+          "line_items": [
+            {
+              "name": "Sales",
+              "value": 0,
+              "account_id": "5695842000000000388"
+            },
+            {
+              "name": "Sales of Product Income",
+              "value": 0,
+              "account_id": "5695842000000090355"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 1",
+              "value": 0,
+              "account_id": "5695842000000090359"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 2",
+              "value": 0,
+              "account_id": "5695842000000090363"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 3",
+              "value": 0,
+              "account_id": "5695842000000090367"
+            },
+            {
+              "name": "Services",
+              "value": 0,
+              "account_id": "5695842000000090383"
+            },
+            {
+              "name": "Shipping Charge",
+              "value": 0,
+              "account_id": "5695842000000014001"
+            }
+          ]
+        }
+      ],
+      "cost_of_goods_sold": [
+        {
+          "name": "Cost of Goods Sold",
+          "value": 0,
+          "line_items": [
+            {
+              "name": "Cost of sales",
+              "value": 0,
+              "account_id": "5695842000000090453"
+            }
+          ]
+        }
+      ],
+      "gross_profit": 0,
+      "operating_expenses": [
+        {
+          "name": "Operating Expenses",
+          "value": 0,
+          "line_items": [
+            {
+              "name": "depreciation of office Equipments",
+              "value": 0,
+              "account_id": "5695842000000090005"
+            },
+            {
+              "name": "Office expenses",
+              "value": 0,
+              "account_id": "5695842000000089849"
+            },
+            {
+              "name": "Other Expense",
+              "value": 0,
+              "account_id": "5695842000000090011"
+            },
+            {
+              "name": "Other Expenses",
+              "value": 0,
+              "account_id": "5695842000000000460"
+            },
+            {
+              "name": "Payroll Expenses",
+              "value": 0,
+              "account_id": "5695842000000089873"
+            },
+            {
+              "name": "Purchase Discounts",
+              "value": 0,
+              "account_id": "5695842000000072001"
+            },
+            { "name": "Rent", "value": 0, "account_id": "5695842000000089885" }
+          ]
+        }
+      ],
+      "operating_profit": 0,
+      "non_operating_revenue": [
+        { "name": "Non Operating Revenue", "value": 0, "line_items": [] }
+      ],
+      "non_operating_expenses": [
+        {
+          "name": "Non Operating Expenses",
+          "value": 0,
+          "line_items": [
+            {
+              "name": "Exchange Gain or Loss",
+              "value": 0,
+              "account_id": "5695842000000000415"
+            }
+          ]
+        }
+      ],
+      "earnings_before_taxes": null,
+      "taxes": null,
+      "net_profit": 0,
+      "custom_fields": null,
+      "updated_at": null
+    },
+    {
+      "rootfi_id": 444133,
+      "rootfi_created_at": "2025-05-26T11:07:23.204Z",
+      "rootfi_updated_at": "2025-05-26T11:07:23.000Z",
+      "rootfi_deleted_at": null,
+      "rootfi_company_id": 19191,
+      "platform_id": "2023-06-01_2023-06-30",
+      "platform_unique_id": null,
+      "currency_id": null,
+      "period_end": "2023-06-30",
+      "period_start": "2023-06-01",
+      "revenue": [
+        {
+          "name": "Operating Revenue",
+          "value": 0,
+          "line_items": [
+            {
+              "name": "Sales",
+              "value": 0,
+              "account_id": "5695842000000000388"
+            },
+            {
+              "name": "Sales of Product Income",
+              "value": 0,
+              "account_id": "5695842000000090355"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 1",
+              "value": 0,
+              "account_id": "5695842000000090359"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 2",
+              "value": 0,
+              "account_id": "5695842000000090363"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 3",
+              "value": 0,
+              "account_id": "5695842000000090367"
+            },
+            {
+              "name": "Services",
+              "value": 0,
+              "account_id": "5695842000000090383"
+            },
+            {
+              "name": "Shipping Charge",
+              "value": 0,
+              "account_id": "5695842000000014001"
+            }
+          ]
+        }
+      ],
+      "cost_of_goods_sold": [
+        {
+          "name": "Cost of Goods Sold",
+          "value": 0,
+          "line_items": [
+            {
+              "name": "Cost of sales",
+              "value": 0,
+              "account_id": "5695842000000090453"
+            }
+          ]
+        }
+      ],
+      "gross_profit": 0,
+      "operating_expenses": [
+        {
+          "name": "Operating Expenses",
+          "value": 0,
+          "line_items": [
+            {
+              "name": "depreciation of office Equipments",
+              "value": 0,
+              "account_id": "5695842000000090005"
+            },
+            {
+              "name": "Office expenses",
+              "value": 0,
+              "account_id": "5695842000000089849"
+            },
+            {
+              "name": "Other Expense",
+              "value": 0,
+              "account_id": "5695842000000090011"
+            },
+            {
+              "name": "Other Expenses",
+              "value": 0,
+              "account_id": "5695842000000000460"
+            },
+            {
+              "name": "Payroll Expenses",
+              "value": 0,
+              "account_id": "5695842000000089873"
+            },
+            {
+              "name": "Purchase Discounts",
+              "value": 0,
+              "account_id": "5695842000000072001"
+            },
+            { "name": "Rent", "value": 0, "account_id": "5695842000000089885" }
+          ]
+        }
+      ],
+      "operating_profit": 0,
+      "non_operating_revenue": [
+        { "name": "Non Operating Revenue", "value": 0, "line_items": [] }
+      ],
+      "non_operating_expenses": [
+        {
+          "name": "Non Operating Expenses",
+          "value": 0,
+          "line_items": [
+            {
+              "name": "Exchange Gain or Loss",
+              "value": 0,
+              "account_id": "5695842000000000415"
+            }
+          ]
+        }
+      ],
+      "earnings_before_taxes": null,
+      "taxes": null,
+      "net_profit": 0,
+      "custom_fields": null,
+      "updated_at": null
+    },
+    {
+      "rootfi_id": 444134,
+      "rootfi_created_at": "2025-05-26T11:07:23.204Z",
+      "rootfi_updated_at": "2025-05-26T11:07:23.000Z",
+      "rootfi_deleted_at": null,
+      "rootfi_company_id": 19191,
+      "platform_id": "2023-07-01_2023-07-31",
+      "platform_unique_id": null,
+      "currency_id": null,
+      "period_end": "2023-07-31",
+      "period_start": "2023-07-01",
+      "revenue": [
+        {
+          "name": "Operating Revenue",
+          "value": 0,
+          "line_items": [
+            {
+              "name": "Sales",
+              "value": 0,
+              "account_id": "5695842000000000388"
+            },
+            {
+              "name": "Sales of Product Income",
+              "value": 0,
+              "account_id": "5695842000000090355"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 1",
+              "value": 0,
+              "account_id": "5695842000000090359"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 2",
+              "value": 0,
+              "account_id": "5695842000000090363"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 3",
+              "value": 0,
+              "account_id": "5695842000000090367"
+            },
+            {
+              "name": "Services",
+              "value": 0,
+              "account_id": "5695842000000090383"
+            },
+            {
+              "name": "Shipping Charge",
+              "value": 0,
+              "account_id": "5695842000000014001"
+            }
+          ]
+        }
+      ],
+      "cost_of_goods_sold": [
+        {
+          "name": "Cost of Goods Sold",
+          "value": 0,
+          "line_items": [
+            {
+              "name": "Cost of sales",
+              "value": 0,
+              "account_id": "5695842000000090453"
+            }
+          ]
+        }
+      ],
+      "gross_profit": 0,
+      "operating_expenses": [
+        {
+          "name": "Operating Expenses",
+          "value": 0,
+          "line_items": [
+            {
+              "name": "depreciation of office Equipments",
+              "value": 0,
+              "account_id": "5695842000000090005"
+            },
+            {
+              "name": "Office expenses",
+              "value": 0,
+              "account_id": "5695842000000089849"
+            },
+            {
+              "name": "Other Expense",
+              "value": 0,
+              "account_id": "5695842000000090011"
+            },
+            {
+              "name": "Other Expenses",
+              "value": 0,
+              "account_id": "5695842000000000460"
+            },
+            {
+              "name": "Payroll Expenses",
+              "value": 0,
+              "account_id": "5695842000000089873"
+            },
+            {
+              "name": "Purchase Discounts",
+              "value": 0,
+              "account_id": "5695842000000072001"
+            },
+            { "name": "Rent", "value": 0, "account_id": "5695842000000089885" }
+          ]
+        }
+      ],
+      "operating_profit": 0,
+      "non_operating_revenue": [
+        { "name": "Non Operating Revenue", "value": 0, "line_items": [] }
+      ],
+      "non_operating_expenses": [
+        {
+          "name": "Non Operating Expenses",
+          "value": 0,
+          "line_items": [
+            {
+              "name": "Exchange Gain or Loss",
+              "value": 0,
+              "account_id": "5695842000000000415"
+            }
+          ]
+        }
+      ],
+      "earnings_before_taxes": null,
+      "taxes": null,
+      "net_profit": 0,
+      "custom_fields": null,
+      "updated_at": null
+    },
+    {
+      "rootfi_id": 444135,
+      "rootfi_created_at": "2025-05-26T11:07:23.204Z",
+      "rootfi_updated_at": "2025-05-26T11:07:23.000Z",
+      "rootfi_deleted_at": null,
+      "rootfi_company_id": 19191,
+      "platform_id": "2023-08-01_2023-08-31",
+      "platform_unique_id": null,
+      "currency_id": null,
+      "period_end": "2023-08-31",
+      "period_start": "2023-08-01",
+      "revenue": [
+        {
+          "name": "Operating Revenue",
+          "value": 312200,
+          "line_items": [
+            {
+              "name": "Sales",
+              "value": 0,
+              "account_id": "5695842000000000388"
+            },
+            {
+              "name": "Sales of Product Income",
+              "value": 0,
+              "account_id": "5695842000000090355"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 1",
+              "value": 62500,
+              "account_id": "5695842000000090359"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 2",
+              "value": 23700,
+              "account_id": "5695842000000090363"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 3",
+              "value": 226000,
+              "account_id": "5695842000000090367"
+            },
+            {
+              "name": "Services",
+              "value": 0,
+              "account_id": "5695842000000090383"
+            },
+            {
+              "name": "Shipping Charge",
+              "value": 0,
+              "account_id": "5695842000000014001"
+            }
+          ]
+        }
+      ],
+      "cost_of_goods_sold": [
+        {
+          "name": "Cost of Goods Sold",
+          "value": 202400,
+          "line_items": [
+            {
+              "name": "Cost of sales",
+              "value": 202400,
+              "account_id": "5695842000000090453"
+            }
+          ]
+        }
+      ],
+      "gross_profit": 109800,
+      "operating_expenses": [
+        {
+          "name": "Operating Expenses",
+          "value": 17000,
+          "line_items": [
+            {
+              "name": "depreciation of office Equipments",
+              "value": 0,
+              "account_id": "5695842000000090005"
+            },
+            {
+              "name": "Office expenses",
+              "value": 3000,
+              "account_id": "5695842000000089849"
+            },
+            {
+              "name": "Other Expense",
+              "value": 0,
+              "account_id": "5695842000000090011"
+            },
+            {
+              "name": "Other Expenses",
+              "value": 0,
+              "account_id": "5695842000000000460"
+            },
+            {
+              "name": "Payroll Expenses",
+              "value": 4000,
+              "account_id": "5695842000000089873"
+            },
+            {
+              "name": "Purchase Discounts",
+              "value": 0,
+              "account_id": "5695842000000072001"
+            },
+            {
+              "name": "Rent",
+              "value": 10000,
+              "account_id": "5695842000000089885"
+            }
+          ]
+        }
+      ],
+      "operating_profit": 92800,
+      "non_operating_revenue": [
+        { "name": "Non Operating Revenue", "value": 0, "line_items": [] }
+      ],
+      "non_operating_expenses": [
+        {
+          "name": "Non Operating Expenses",
+          "value": 0,
+          "line_items": [
+            {
+              "name": "Exchange Gain or Loss",
+              "value": 0,
+              "account_id": "5695842000000000415"
+            }
+          ]
+        }
+      ],
+      "earnings_before_taxes": null,
+      "taxes": null,
+      "net_profit": 92800,
+      "custom_fields": null,
+      "updated_at": null
+    },
+    {
+      "rootfi_id": 444136,
+      "rootfi_created_at": "2025-05-26T11:07:23.204Z",
+      "rootfi_updated_at": "2025-05-26T11:07:23.000Z",
+      "rootfi_deleted_at": null,
+      "rootfi_company_id": 19191,
+      "platform_id": "2023-09-01_2023-09-30",
+      "platform_unique_id": null,
+      "currency_id": null,
+      "period_end": "2023-09-30",
+      "period_start": "2023-09-01",
+      "revenue": [
+        {
+          "name": "Operating Revenue",
+          "value": 295100,
+          "line_items": [
+            {
+              "name": "Sales",
+              "value": 0,
+              "account_id": "5695842000000000388"
+            },
+            {
+              "name": "Sales of Product Income",
+              "value": 0,
+              "account_id": "5695842000000090355"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 1",
+              "value": 87500,
+              "account_id": "5695842000000090359"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 2",
+              "value": 27600,
+              "account_id": "5695842000000090363"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 3",
+              "value": 180000,
+              "account_id": "5695842000000090367"
+            },
+            {
+              "name": "Services",
+              "value": 0,
+              "account_id": "5695842000000090383"
+            },
+            {
+              "name": "Shipping Charge",
+              "value": 0,
+              "account_id": "5695842000000014001"
+            }
+          ]
+        }
+      ],
+      "cost_of_goods_sold": [
+        {
+          "name": "Cost of Goods Sold",
+          "value": 179200,
+          "line_items": [
+            {
+              "name": "Cost of sales",
+              "value": 179200,
+              "account_id": "5695842000000090453"
+            }
+          ]
+        }
+      ],
+      "gross_profit": 115900,
+      "operating_expenses": [
+        {
+          "name": "Operating Expenses",
+          "value": 17000,
+          "line_items": [
+            {
+              "name": "depreciation of office Equipments",
+              "value": 0,
+              "account_id": "5695842000000090005"
+            },
+            {
+              "name": "Office expenses",
+              "value": 3000,
+              "account_id": "5695842000000089849"
+            },
+            {
+              "name": "Other Expense",
+              "value": 0,
+              "account_id": "5695842000000090011"
+            },
+            {
+              "name": "Other Expenses",
+              "value": 0,
+              "account_id": "5695842000000000460"
+            },
+            {
+              "name": "Payroll Expenses",
+              "value": 4000,
+              "account_id": "5695842000000089873"
+            },
+            {
+              "name": "Purchase Discounts",
+              "value": 0,
+              "account_id": "5695842000000072001"
+            },
+            {
+              "name": "Rent",
+              "value": 10000,
+              "account_id": "5695842000000089885"
+            }
+          ]
+        }
+      ],
+      "operating_profit": 98900,
+      "non_operating_revenue": [
+        { "name": "Non Operating Revenue", "value": 0, "line_items": [] }
+      ],
+      "non_operating_expenses": [
+        {
+          "name": "Non Operating Expenses",
+          "value": 0,
+          "line_items": [
+            {
+              "name": "Exchange Gain or Loss",
+              "value": 0,
+              "account_id": "5695842000000000415"
+            }
+          ]
+        }
+      ],
+      "earnings_before_taxes": null,
+      "taxes": null,
+      "net_profit": 98900,
+      "custom_fields": null,
+      "updated_at": null
+    },
+    {
+      "rootfi_id": 444137,
+      "rootfi_created_at": "2025-05-26T11:07:23.204Z",
+      "rootfi_updated_at": "2025-05-26T11:07:23.000Z",
+      "rootfi_deleted_at": null,
+      "rootfi_company_id": 19191,
+      "platform_id": "2023-10-01_2023-10-31",
+      "platform_unique_id": null,
+      "currency_id": null,
+      "period_end": "2023-10-31",
+      "period_start": "2023-10-01",
+      "revenue": [
+        {
+          "name": "Operating Revenue",
+          "value": 494100,
+          "line_items": [
+            {
+              "name": "Sales",
+              "value": 0,
+              "account_id": "5695842000000000388"
+            },
+            {
+              "name": "Sales of Product Income",
+              "value": 0,
+              "account_id": "5695842000000090355"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 1",
+              "value": 124500,
+              "account_id": "5695842000000090359"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 2",
+              "value": 33600,
+              "account_id": "5695842000000090363"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 3",
+              "value": 336000,
+              "account_id": "5695842000000090367"
+            },
+            {
+              "name": "Services",
+              "value": 0,
+              "account_id": "5695842000000090383"
+            },
+            {
+              "name": "Shipping Charge",
+              "value": 0,
+              "account_id": "5695842000000014001"
+            }
+          ]
+        }
+      ],
+      "cost_of_goods_sold": [
+        {
+          "name": "Cost of Goods Sold",
+          "value": 313000,
+          "line_items": [
+            {
+              "name": "Cost of sales",
+              "value": 313000,
+              "account_id": "5695842000000090453"
+            }
+          ]
+        }
+      ],
+      "gross_profit": 181100,
+      "operating_expenses": [
+        {
+          "name": "Operating Expenses",
+          "value": 16000,
+          "line_items": [
+            {
+              "name": "depreciation of office Equipments",
+              "value": 0,
+              "account_id": "5695842000000090005"
+            },
+            {
+              "name": "Office expenses",
+              "value": 2000,
+              "account_id": "5695842000000089849"
+            },
+            {
+              "name": "Other Expense",
+              "value": 0,
+              "account_id": "5695842000000090011"
+            },
+            {
+              "name": "Other Expenses",
+              "value": 0,
+              "account_id": "5695842000000000460"
+            },
+            {
+              "name": "Payroll Expenses",
+              "value": 4000,
+              "account_id": "5695842000000089873"
+            },
+            {
+              "name": "Purchase Discounts",
+              "value": 0,
+              "account_id": "5695842000000072001"
+            },
+            {
+              "name": "Rent",
+              "value": 10000,
+              "account_id": "5695842000000089885"
+            }
+          ]
+        }
+      ],
+      "operating_profit": 165100,
+      "non_operating_revenue": [
+        { "name": "Non Operating Revenue", "value": 0, "line_items": [] }
+      ],
+      "non_operating_expenses": [
+        {
+          "name": "Non Operating Expenses",
+          "value": 0,
+          "line_items": [
+            {
+              "name": "Exchange Gain or Loss",
+              "value": 0,
+              "account_id": "5695842000000000415"
+            }
+          ]
+        }
+      ],
+      "earnings_before_taxes": null,
+      "taxes": null,
+      "net_profit": 165100,
+      "custom_fields": null,
+      "updated_at": null
+    },
+    {
+      "rootfi_id": 444138,
+      "rootfi_created_at": "2025-05-26T11:07:23.204Z",
+      "rootfi_updated_at": "2025-05-26T11:07:23.000Z",
+      "rootfi_deleted_at": null,
+      "rootfi_company_id": 19191,
+      "platform_id": "2023-11-01_2023-11-30",
+      "platform_unique_id": null,
+      "currency_id": null,
+      "period_end": "2023-11-30",
+      "period_start": "2023-11-01",
+      "revenue": [
+        {
+          "name": "Operating Revenue",
+          "value": 508200,
+          "line_items": [
+            {
+              "name": "Sales",
+              "value": 0,
+              "account_id": "5695842000000000388"
+            },
+            {
+              "name": "Sales of Product Income",
+              "value": 0,
+              "account_id": "5695842000000090355"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 1",
+              "value": 132500,
+              "account_id": "5695842000000090359"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 2",
+              "value": 35700,
+              "account_id": "5695842000000090363"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 3",
+              "value": 340000,
+              "account_id": "5695842000000090367"
+            },
+            {
+              "name": "Services",
+              "value": 0,
+              "account_id": "5695842000000090383"
+            },
+            {
+              "name": "Shipping Charge",
+              "value": 0,
+              "account_id": "5695842000000014001"
+            }
+          ]
+        }
+      ],
+      "cost_of_goods_sold": [
+        {
+          "name": "Cost of Goods Sold",
+          "value": 319900,
+          "line_items": [
+            {
+              "name": "Cost of sales",
+              "value": 319900,
+              "account_id": "5695842000000090453"
+            }
+          ]
+        }
+      ],
+      "gross_profit": 188300,
+      "operating_expenses": [
+        {
+          "name": "Operating Expenses",
+          "value": 17000,
+          "line_items": [
+            {
+              "name": "depreciation of office Equipments",
+              "value": 0,
+              "account_id": "5695842000000090005"
+            },
+            {
+              "name": "Office expenses",
+              "value": 3000,
+              "account_id": "5695842000000089849"
+            },
+            {
+              "name": "Other Expense",
+              "value": 0,
+              "account_id": "5695842000000090011"
+            },
+            {
+              "name": "Other Expenses",
+              "value": 0,
+              "account_id": "5695842000000000460"
+            },
+            {
+              "name": "Payroll Expenses",
+              "value": 4000,
+              "account_id": "5695842000000089873"
+            },
+            {
+              "name": "Purchase Discounts",
+              "value": 0,
+              "account_id": "5695842000000072001"
+            },
+            {
+              "name": "Rent",
+              "value": 10000,
+              "account_id": "5695842000000089885"
+            }
+          ]
+        }
+      ],
+      "operating_profit": 171300,
+      "non_operating_revenue": [
+        { "name": "Non Operating Revenue", "value": 0, "line_items": [] }
+      ],
+      "non_operating_expenses": [
+        {
+          "name": "Non Operating Expenses",
+          "value": 0,
+          "line_items": [
+            {
+              "name": "Exchange Gain or Loss",
+              "value": 0,
+              "account_id": "5695842000000000415"
+            }
+          ]
+        }
+      ],
+      "earnings_before_taxes": null,
+      "taxes": null,
+      "net_profit": 171300,
+      "custom_fields": null,
+      "updated_at": null
+    },
+    {
+      "rootfi_id": 444139,
+      "rootfi_created_at": "2025-05-26T11:07:23.204Z",
+      "rootfi_updated_at": "2025-05-26T11:07:23.000Z",
+      "rootfi_deleted_at": null,
+      "rootfi_company_id": 19191,
+      "platform_id": "2023-12-01_2023-12-31",
+      "platform_unique_id": null,
+      "currency_id": null,
+      "period_end": "2023-12-31",
+      "period_start": "2023-12-01",
+      "revenue": [
+        {
+          "name": "Operating Revenue",
+          "value": 579300,
+          "line_items": [
+            {
+              "name": "Sales",
+              "value": 0,
+              "account_id": "5695842000000000388"
+            },
+            {
+              "name": "Sales of Product Income",
+              "value": 0,
+              "account_id": "5695842000000090355"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 1",
+              "value": 84500,
+              "account_id": "5695842000000090359"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 2",
+              "value": 34800,
+              "account_id": "5695842000000090363"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 3",
+              "value": 460000,
+              "account_id": "5695842000000090367"
+            },
+            {
+              "name": "Services",
+              "value": 0,
+              "account_id": "5695842000000090383"
+            },
+            {
+              "name": "Shipping Charge",
+              "value": 0,
+              "account_id": "5695842000000014001"
+            }
+          ]
+        }
+      ],
+      "cost_of_goods_sold": [
+        {
+          "name": "Cost of Goods Sold",
+          "value": 390400,
+          "line_items": [
+            {
+              "name": "Cost of sales",
+              "value": 390400,
+              "account_id": "5695842000000090453"
+            }
+          ]
+        }
+      ],
+      "gross_profit": 188900,
+      "operating_expenses": [
+        {
+          "name": "Operating Expenses",
+          "value": 27000,
+          "line_items": [
+            {
+              "name": "depreciation of office Equipments",
+              "value": 0,
+              "account_id": "5695842000000090005"
+            },
+            {
+              "name": "Office expenses",
+              "value": 3000,
+              "account_id": "5695842000000089849"
+            },
+            {
+              "name": "Other Expense",
+              "value": 0,
+              "account_id": "5695842000000090011"
+            },
+            {
+              "name": "Other Expenses",
+              "value": 0,
+              "account_id": "5695842000000000460"
+            },
+            {
+              "name": "Payroll Expenses",
+              "value": 4000,
+              "account_id": "5695842000000089873"
+            },
+            {
+              "name": "Purchase Discounts",
+              "value": 0,
+              "account_id": "5695842000000072001"
+            },
+            {
+              "name": "Rent",
+              "value": 20000,
+              "account_id": "5695842000000089885"
+            }
+          ]
+        }
+      ],
+      "operating_profit": 161900,
+      "non_operating_revenue": [
+        { "name": "Non Operating Revenue", "value": 0, "line_items": [] }
+      ],
+      "non_operating_expenses": [
+        {
+          "name": "Non Operating Expenses",
+          "value": 0,
+          "line_items": [
+            {
+              "name": "Exchange Gain or Loss",
+              "value": 0,
+              "account_id": "5695842000000000415"
+            }
+          ]
+        }
+      ],
+      "earnings_before_taxes": null,
+      "taxes": null,
+      "net_profit": 161900,
+      "custom_fields": null,
+      "updated_at": null
+    },
+    {
+      "rootfi_id": 444140,
+      "rootfi_created_at": "2025-05-26T11:07:23.204Z",
+      "rootfi_updated_at": "2025-05-26T11:07:23.000Z",
+      "rootfi_deleted_at": null,
+      "rootfi_company_id": 19191,
+      "platform_id": "2024-01-01_2024-01-31",
+      "platform_unique_id": null,
+      "currency_id": null,
+      "period_end": "2024-01-31",
+      "period_start": "2024-01-01",
+      "revenue": [
+        {
+          "name": "Operating Revenue",
+          "value": 556500,
+          "line_items": [
+            {
+              "name": "Sales",
+              "value": 0,
+              "account_id": "5695842000000000388"
+            },
+            {
+              "name": "Sales of Product Income",
+              "value": 0,
+              "account_id": "5695842000000090355"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 1",
+              "value": 119000,
+              "account_id": "5695842000000090359"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 2",
+              "value": 37500,
+              "account_id": "5695842000000090363"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 3",
+              "value": 400000,
+              "account_id": "5695842000000090367"
+            },
+            {
+              "name": "Services",
+              "value": 0,
+              "account_id": "5695842000000090383"
+            },
+            {
+              "name": "Shipping Charge",
+              "value": 0,
+              "account_id": "5695842000000014001"
+            }
+          ]
+        }
+      ],
+      "cost_of_goods_sold": [
+        {
+          "name": "Cost of Goods Sold",
+          "value": 360100,
+          "line_items": [
+            {
+              "name": "Cost of sales",
+              "value": 360100,
+              "account_id": "5695842000000090453"
+            }
+          ]
+        }
+      ],
+      "gross_profit": 196400,
+      "operating_expenses": [
+        {
+          "name": "Operating Expenses",
+          "value": 30000,
+          "line_items": [
+            {
+              "name": "depreciation of office Equipments",
+              "value": 0,
+              "account_id": "5695842000000090005"
+            },
+            {
+              "name": "Office expenses",
+              "value": 6000,
+              "account_id": "5695842000000089849"
+            },
+            {
+              "name": "Other Expense",
+              "value": 0,
+              "account_id": "5695842000000090011"
+            },
+            {
+              "name": "Other Expenses",
+              "value": 0,
+              "account_id": "5695842000000000460"
+            },
+            {
+              "name": "Payroll Expenses",
+              "value": 4000,
+              "account_id": "5695842000000089873"
+            },
+            {
+              "name": "Purchase Discounts",
+              "value": 0,
+              "account_id": "5695842000000072001"
+            },
+            {
+              "name": "Rent",
+              "value": 20000,
+              "account_id": "5695842000000089885"
+            }
+          ]
+        }
+      ],
+      "operating_profit": 166400,
+      "non_operating_revenue": [
+        { "name": "Non Operating Revenue", "value": 0, "line_items": [] }
+      ],
+      "non_operating_expenses": [
+        {
+          "name": "Non Operating Expenses",
+          "value": 0,
+          "line_items": [
+            {
+              "name": "Exchange Gain or Loss",
+              "value": 0,
+              "account_id": "5695842000000000415"
+            }
+          ]
+        }
+      ],
+      "earnings_before_taxes": null,
+      "taxes": null,
+      "net_profit": 166400,
+      "custom_fields": null,
+      "updated_at": null
+    },
+    {
+      "rootfi_id": 444141,
+      "rootfi_created_at": "2025-05-26T11:07:23.204Z",
+      "rootfi_updated_at": "2025-05-26T11:07:23.000Z",
+      "rootfi_deleted_at": null,
+      "rootfi_company_id": 19191,
+      "platform_id": "2024-02-01_2024-02-29",
+      "platform_unique_id": null,
+      "currency_id": null,
+      "period_end": "2024-02-29",
+      "period_start": "2024-02-01",
+      "revenue": [
+        {
+          "name": "Operating Revenue",
+          "value": 683600,
+          "line_items": [
+            {
+              "name": "Sales",
+              "value": 0,
+              "account_id": "5695842000000000388"
+            },
+            {
+              "name": "Sales of Product Income",
+              "value": 0,
+              "account_id": "5695842000000090355"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 1",
+              "value": 100000,
+              "account_id": "5695842000000090359"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 2",
+              "value": 33600,
+              "account_id": "5695842000000090363"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 3",
+              "value": 550000,
+              "account_id": "5695842000000090367"
+            },
+            {
+              "name": "Services",
+              "value": 0,
+              "account_id": "5695842000000090383"
+            },
+            {
+              "name": "Shipping Charge",
+              "value": 0,
+              "account_id": "5695842000000014001"
+            }
+          ]
+        }
+      ],
+      "cost_of_goods_sold": [
+        {
+          "name": "Cost of Goods Sold",
+          "value": 463700,
+          "line_items": [
+            {
+              "name": "Cost of sales",
+              "value": 463700,
+              "account_id": "5695842000000090453"
+            }
+          ]
+        }
+      ],
+      "gross_profit": 219900,
+      "operating_expenses": [
+        {
+          "name": "Operating Expenses",
+          "value": 17000,
+          "line_items": [
+            {
+              "name": "depreciation of office Equipments",
+              "value": 0,
+              "account_id": "5695842000000090005"
+            },
+            {
+              "name": "Office expenses",
+              "value": 3000,
+              "account_id": "5695842000000089849"
+            },
+            {
+              "name": "Other Expense",
+              "value": 0,
+              "account_id": "5695842000000090011"
+            },
+            {
+              "name": "Other Expenses",
+              "value": 0,
+              "account_id": "5695842000000000460"
+            },
+            {
+              "name": "Payroll Expenses",
+              "value": 4000,
+              "account_id": "5695842000000089873"
+            },
+            {
+              "name": "Purchase Discounts",
+              "value": 0,
+              "account_id": "5695842000000072001"
+            },
+            {
+              "name": "Rent",
+              "value": 10000,
+              "account_id": "5695842000000089885"
+            }
+          ]
+        }
+      ],
+      "operating_profit": 202900,
+      "non_operating_revenue": [
+        { "name": "Non Operating Revenue", "value": 0, "line_items": [] }
+      ],
+      "non_operating_expenses": [
+        {
+          "name": "Non Operating Expenses",
+          "value": 0,
+          "line_items": [
+            {
+              "name": "Exchange Gain or Loss",
+              "value": 0,
+              "account_id": "5695842000000000415"
+            }
+          ]
+        }
+      ],
+      "earnings_before_taxes": null,
+      "taxes": null,
+      "net_profit": 202900,
+      "custom_fields": null,
+      "updated_at": null
+    },
+    {
+      "rootfi_id": 444142,
+      "rootfi_created_at": "2025-05-26T11:07:23.204Z",
+      "rootfi_updated_at": "2025-05-26T11:07:23.000Z",
+      "rootfi_deleted_at": null,
+      "rootfi_company_id": 19191,
+      "platform_id": "2024-03-01_2024-03-31",
+      "platform_unique_id": null,
+      "currency_id": null,
+      "period_end": "2024-03-31",
+      "period_start": "2024-03-01",
+      "revenue": [
+        {
+          "name": "Operating Revenue",
+          "value": 606100,
+          "line_items": [
+            {
+              "name": "Sales",
+              "value": 0,
+              "account_id": "5695842000000000388"
+            },
+            {
+              "name": "Sales of Product Income",
+              "value": 0,
+              "account_id": "5695842000000090355"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 1",
+              "value": 127500,
+              "account_id": "5695842000000090359"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 2",
+              "value": 60600,
+              "account_id": "5695842000000090363"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 3",
+              "value": 418000,
+              "account_id": "5695842000000090367"
+            },
+            {
+              "name": "Services",
+              "value": 0,
+              "account_id": "5695842000000090383"
+            },
+            {
+              "name": "Shipping Charge",
+              "value": 0,
+              "account_id": "5695842000000014001"
+            }
+          ]
+        }
+      ],
+      "cost_of_goods_sold": [
+        {
+          "name": "Cost of Goods Sold",
+          "value": 384700,
+          "line_items": [
+            {
+              "name": "Cost of sales",
+              "value": 384700,
+              "account_id": "5695842000000090453"
+            }
+          ]
+        }
+      ],
+      "gross_profit": 221400,
+      "operating_expenses": [
+        {
+          "name": "Operating Expenses",
+          "value": 16771.19,
+          "line_items": [
+            {
+              "name": "depreciation of office Equipments",
+              "value": 0,
+              "account_id": "5695842000000090005"
+            },
+            {
+              "name": "Office expenses",
+              "value": 3000,
+              "account_id": "5695842000000089849"
+            },
+            {
+              "name": "Other Expense",
+              "value": 0,
+              "account_id": "5695842000000090011"
+            },
+            {
+              "name": "Other Expenses",
+              "value": 741.81,
+              "account_id": "5695842000000000460"
+            },
+            {
+              "name": "Payroll Expenses",
+              "value": 4000,
+              "account_id": "5695842000000089873"
+            },
+            {
+              "name": "Purchase Discounts",
+              "value": -970.62,
+              "account_id": "5695842000000072001"
+            },
+            {
+              "name": "Rent",
+              "value": 10000,
+              "account_id": "5695842000000089885"
+            }
+          ]
+        }
+      ],
+      "operating_profit": 204628.81,
+      "non_operating_revenue": [
+        { "name": "Non Operating Revenue", "value": 0, "line_items": [] }
+      ],
+      "non_operating_expenses": [
+        {
+          "name": "Non Operating Expenses",
+          "value": 0,
+          "line_items": [
+            {
+              "name": "Exchange Gain or Loss",
+              "value": 0,
+              "account_id": "5695842000000000415"
+            }
+          ]
+        }
+      ],
+      "earnings_before_taxes": null,
+      "taxes": null,
+      "net_profit": 204628.81,
+      "custom_fields": null,
+      "updated_at": null
+    },
+    {
+      "rootfi_id": 444143,
+      "rootfi_created_at": "2025-05-26T11:07:23.204Z",
+      "rootfi_updated_at": "2025-05-26T11:07:23.000Z",
+      "rootfi_deleted_at": null,
+      "rootfi_company_id": 19191,
+      "platform_id": "2024-04-01_2024-04-30",
+      "platform_unique_id": null,
+      "currency_id": null,
+      "period_end": "2024-04-30",
+      "period_start": "2024-04-01",
+      "revenue": [
+        {
+          "name": "Operating Revenue",
+          "value": 578580,
+          "line_items": [
+            {
+              "name": "Sales",
+              "value": 0,
+              "account_id": "5695842000000000388"
+            },
+            {
+              "name": "Sales of Product Income",
+              "value": 6000,
+              "account_id": "5695842000000090355"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 1",
+              "value": 122080,
+              "account_id": "5695842000000090359"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 2",
+              "value": 40500,
+              "account_id": "5695842000000090363"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 3",
+              "value": 410000,
+              "account_id": "5695842000000090367"
+            },
+            {
+              "name": "Services",
+              "value": 0,
+              "account_id": "5695842000000090383"
+            },
+            {
+              "name": "Shipping Charge",
+              "value": 0,
+              "account_id": "5695842000000014001"
+            }
+          ]
+        }
+      ],
+      "cost_of_goods_sold": [
+        {
+          "name": "Cost of Goods Sold",
+          "value": 370000,
+          "line_items": [
+            {
+              "name": "Cost of sales",
+              "value": 370000,
+              "account_id": "5695842000000090453"
+            }
+          ]
+        }
+      ],
+      "gross_profit": 208580,
+      "operating_expenses": [
+        {
+          "name": "Operating Expenses",
+          "value": 18751.76,
+          "line_items": [
+            {
+              "name": "depreciation of office Equipments",
+              "value": 0,
+              "account_id": "5695842000000090005"
+            },
+            {
+              "name": "Office expenses",
+              "value": 3000,
+              "account_id": "5695842000000089849"
+            },
+            {
+              "name": "Other Expense",
+              "value": 0,
+              "account_id": "5695842000000090011"
+            },
+            {
+              "name": "Other Expenses",
+              "value": 1354.77,
+              "account_id": "5695842000000000460"
+            },
+            {
+              "name": "Payroll Expenses",
+              "value": 5000,
+              "account_id": "5695842000000089873"
+            },
+            {
+              "name": "Purchase Discounts",
+              "value": -603.01,
+              "account_id": "5695842000000072001"
+            },
+            {
+              "name": "Rent",
+              "value": 10000,
+              "account_id": "5695842000000089885"
+            }
+          ]
+        }
+      ],
+      "operating_profit": 189828.24,
+      "non_operating_revenue": [
+        { "name": "Non Operating Revenue", "value": 0, "line_items": [] }
+      ],
+      "non_operating_expenses": [
+        {
+          "name": "Non Operating Expenses",
+          "value": 0,
+          "line_items": [
+            {
+              "name": "Exchange Gain or Loss",
+              "value": 0,
+              "account_id": "5695842000000000415"
+            }
+          ]
+        }
+      ],
+      "earnings_before_taxes": null,
+      "taxes": null,
+      "net_profit": 189828.24,
+      "custom_fields": null,
+      "updated_at": null
+    },
+    {
+      "rootfi_id": 444144,
+      "rootfi_created_at": "2025-05-26T11:07:23.204Z",
+      "rootfi_updated_at": "2025-05-26T11:07:23.000Z",
+      "rootfi_deleted_at": null,
+      "rootfi_company_id": 19191,
+      "platform_id": "2024-05-01_2024-05-31",
+      "platform_unique_id": null,
+      "currency_id": null,
+      "period_end": "2024-05-31",
+      "period_start": "2024-05-01",
+      "revenue": [
+        {
+          "name": "Operating Revenue",
+          "value": 619000,
+          "line_items": [
+            {
+              "name": "Sales",
+              "value": 0,
+              "account_id": "5695842000000000388"
+            },
+            {
+              "name": "Sales of Product Income",
+              "value": 0,
+              "account_id": "5695842000000090355"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 1",
+              "value": 125000,
+              "account_id": "5695842000000090359"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 2",
+              "value": 36000,
+              "account_id": "5695842000000090363"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 3",
+              "value": 458000,
+              "account_id": "5695842000000090367"
+            },
+            {
+              "name": "Services",
+              "value": 0,
+              "account_id": "5695842000000090383"
+            },
+            {
+              "name": "Shipping Charge",
+              "value": 0,
+              "account_id": "5695842000000014001"
+            }
+          ]
+        }
+      ],
+      "cost_of_goods_sold": [
+        {
+          "name": "Cost of Goods Sold",
+          "value": 405500,
+          "line_items": [
+            {
+              "name": "Cost of sales",
+              "value": 405500,
+              "account_id": "5695842000000090453"
+            }
+          ]
+        }
+      ],
+      "gross_profit": 213500,
+      "operating_expenses": [
+        {
+          "name": "Operating Expenses",
+          "value": 17488.58,
+          "line_items": [
+            {
+              "name": "depreciation of office Equipments",
+              "value": 0,
+              "account_id": "5695842000000090005"
+            },
+            {
+              "name": "Office expenses",
+              "value": 3000,
+              "account_id": "5695842000000089849"
+            },
+            {
+              "name": "Other Expense",
+              "value": 0,
+              "account_id": "5695842000000090011"
+            },
+            {
+              "name": "Other Expenses",
+              "value": 785.86,
+              "account_id": "5695842000000000460"
+            },
+            {
+              "name": "Payroll Expenses",
+              "value": 5000,
+              "account_id": "5695842000000089873"
+            },
+            {
+              "name": "Purchase Discounts",
+              "value": -1297.28,
+              "account_id": "5695842000000072001"
+            },
+            {
+              "name": "Rent",
+              "value": 10000,
+              "account_id": "5695842000000089885"
+            }
+          ]
+        }
+      ],
+      "operating_profit": 196011.42,
+      "non_operating_revenue": [
+        { "name": "Non Operating Revenue", "value": 0, "line_items": [] }
+      ],
+      "non_operating_expenses": [
+        {
+          "name": "Non Operating Expenses",
+          "value": 0,
+          "line_items": [
+            {
+              "name": "Exchange Gain or Loss",
+              "value": 0,
+              "account_id": "5695842000000000415"
+            }
+          ]
+        }
+      ],
+      "earnings_before_taxes": null,
+      "taxes": null,
+      "net_profit": 196011.42,
+      "custom_fields": null,
+      "updated_at": null
+    },
+    {
+      "rootfi_id": 444145,
+      "rootfi_created_at": "2025-05-26T11:07:23.204Z",
+      "rootfi_updated_at": "2025-05-26T11:07:23.000Z",
+      "rootfi_deleted_at": null,
+      "rootfi_company_id": 19191,
+      "platform_id": "2024-06-01_2024-06-30",
+      "platform_unique_id": null,
+      "currency_id": null,
+      "period_end": "2024-06-30",
+      "period_start": "2024-06-01",
+      "revenue": [
+        {
+          "name": "Operating Revenue",
+          "value": 675000,
+          "line_items": [
+            {
+              "name": "Sales",
+              "value": 0,
+              "account_id": "5695842000000000388"
+            },
+            {
+              "name": "Sales of Product Income",
+              "value": 6000,
+              "account_id": "5695842000000090355"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 1",
+              "value": 68000,
+              "account_id": "5695842000000090359"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 2",
+              "value": 51000,
+              "account_id": "5695842000000090363"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 3",
+              "value": 550000,
+              "account_id": "5695842000000090367"
+            },
+            {
+              "name": "Services",
+              "value": 0,
+              "account_id": "5695842000000090383"
+            },
+            {
+              "name": "Shipping Charge",
+              "value": 0,
+              "account_id": "5695842000000014001"
+            }
+          ]
+        }
+      ],
+      "cost_of_goods_sold": [
+        {
+          "name": "Cost of Goods Sold",
+          "value": 456700,
+          "line_items": [
+            {
+              "name": "Cost of sales",
+              "value": 456700,
+              "account_id": "5695842000000090453"
+            }
+          ]
+        }
+      ],
+      "gross_profit": 218300,
+      "operating_expenses": [
+        {
+          "name": "Operating Expenses",
+          "value": 17761.2,
+          "line_items": [
+            {
+              "name": "depreciation of office Equipments",
+              "value": 0,
+              "account_id": "5695842000000090005"
+            },
+            {
+              "name": "Office expenses",
+              "value": 3000,
+              "account_id": "5695842000000089849"
+            },
+            {
+              "name": "Other Expense",
+              "value": 0,
+              "account_id": "5695842000000090011"
+            },
+            {
+              "name": "Other Expenses",
+              "value": 1461.06,
+              "account_id": "5695842000000000460"
+            },
+            {
+              "name": "Payroll Expenses",
+              "value": 5000,
+              "account_id": "5695842000000089873"
+            },
+            {
+              "name": "Purchase Discounts",
+              "value": -1699.86,
+              "account_id": "5695842000000072001"
+            },
+            {
+              "name": "Rent",
+              "value": 10000,
+              "account_id": "5695842000000089885"
+            }
+          ]
+        }
+      ],
+      "operating_profit": 200538.8,
+      "non_operating_revenue": [
+        { "name": "Non Operating Revenue", "value": 0, "line_items": [] }
+      ],
+      "non_operating_expenses": [
+        {
+          "name": "Non Operating Expenses",
+          "value": 0,
+          "line_items": [
+            {
+              "name": "Exchange Gain or Loss",
+              "value": 0,
+              "account_id": "5695842000000000415"
+            }
+          ]
+        }
+      ],
+      "earnings_before_taxes": null,
+      "taxes": null,
+      "net_profit": 200538.8,
+      "custom_fields": null,
+      "updated_at": null
+    },
+    {
+      "rootfi_id": 444146,
+      "rootfi_created_at": "2025-05-26T11:07:23.204Z",
+      "rootfi_updated_at": "2025-05-26T11:07:23.000Z",
+      "rootfi_deleted_at": null,
+      "rootfi_company_id": 19191,
+      "platform_id": "2024-07-01_2024-07-31",
+      "platform_unique_id": null,
+      "currency_id": null,
+      "period_end": "2024-07-31",
+      "period_start": "2024-07-01",
+      "revenue": [
+        {
+          "name": "Operating Revenue",
+          "value": 1138600,
+          "line_items": [
+            {
+              "name": "Sales",
+              "value": 0,
+              "account_id": "5695842000000000388"
+            },
+            {
+              "name": "Sales of Product Income",
+              "value": 50000,
+              "account_id": "5695842000000090355"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 1",
+              "value": 175000,
+              "account_id": "5695842000000090359"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 2",
+              "value": 43600,
+              "account_id": "5695842000000090363"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 3",
+              "value": 870000,
+              "account_id": "5695842000000090367"
+            },
+            {
+              "name": "Services",
+              "value": 0,
+              "account_id": "5695842000000090383"
+            },
+            {
+              "name": "Shipping Charge",
+              "value": 0,
+              "account_id": "5695842000000014001"
+            }
+          ]
+        }
+      ],
+      "cost_of_goods_sold": [
+        {
+          "name": "Cost of Goods Sold",
+          "value": 735700,
+          "line_items": [
+            {
+              "name": "Cost of sales",
+              "value": 735700,
+              "account_id": "5695842000000090453"
+            }
+          ]
+        }
+      ],
+      "gross_profit": 402900,
+      "operating_expenses": [
+        {
+          "name": "Operating Expenses",
+          "value": 29676.24,
+          "line_items": [
+            {
+              "name": "depreciation of office Equipments",
+              "value": 0,
+              "account_id": "5695842000000090005"
+            },
+            {
+              "name": "Office expenses",
+              "value": 5000,
+              "account_id": "5695842000000089849"
+            },
+            {
+              "name": "Other Expense",
+              "value": 0,
+              "account_id": "5695842000000090011"
+            },
+            {
+              "name": "Other Expenses",
+              "value": 965.8,
+              "account_id": "5695842000000000460"
+            },
+            {
+              "name": "Payroll Expenses",
+              "value": 5000,
+              "account_id": "5695842000000089873"
+            },
+            {
+              "name": "Purchase Discounts",
+              "value": -1289.56,
+              "account_id": "5695842000000072001"
+            },
+            {
+              "name": "Rent",
+              "value": 20000,
+              "account_id": "5695842000000089885"
+            }
+          ]
+        }
+      ],
+      "operating_profit": 373223.76,
+      "non_operating_revenue": [
+        { "name": "Non Operating Revenue", "value": 0, "line_items": [] }
+      ],
+      "non_operating_expenses": [
+        {
+          "name": "Non Operating Expenses",
+          "value": 0,
+          "line_items": [
+            {
+              "name": "Exchange Gain or Loss",
+              "value": 0,
+              "account_id": "5695842000000000415"
+            }
+          ]
+        }
+      ],
+      "earnings_before_taxes": null,
+      "taxes": null,
+      "net_profit": 373223.76,
+      "custom_fields": null,
+      "updated_at": null
+    },
+    {
+      "rootfi_id": 444147,
+      "rootfi_created_at": "2025-05-26T11:07:23.204Z",
+      "rootfi_updated_at": "2025-05-26T11:07:23.000Z",
+      "rootfi_deleted_at": null,
+      "rootfi_company_id": 19191,
+      "platform_id": "2024-08-01_2024-08-31",
+      "platform_unique_id": null,
+      "currency_id": null,
+      "period_end": "2024-08-31",
+      "period_start": "2024-08-01",
+      "revenue": [
+        {
+          "name": "Operating Revenue",
+          "value": 601000,
+          "line_items": [
+            {
+              "name": "Sales",
+              "value": 0,
+              "account_id": "5695842000000000388"
+            },
+            {
+              "name": "Sales of Product Income",
+              "value": 0,
+              "account_id": "5695842000000090355"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 1",
+              "value": 176500,
+              "account_id": "5695842000000090359"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 2",
+              "value": 64500,
+              "account_id": "5695842000000090363"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 3",
+              "value": 360000,
+              "account_id": "5695842000000090367"
+            },
+            {
+              "name": "Services",
+              "value": 0,
+              "account_id": "5695842000000090383"
+            },
+            {
+              "name": "Shipping Charge",
+              "value": 0,
+              "account_id": "5695842000000014001"
+            }
+          ]
+        }
+      ],
+      "cost_of_goods_sold": [
+        {
+          "name": "Cost of Goods Sold",
+          "value": 362100,
+          "line_items": [
+            {
+              "name": "Cost of sales",
+              "value": 362100,
+              "account_id": "5695842000000090453"
+            }
+          ]
+        }
+      ],
+      "gross_profit": 238900,
+      "operating_expenses": [
+        {
+          "name": "Operating Expenses",
+          "value": 17152.13,
+          "line_items": [
+            {
+              "name": "depreciation of office Equipments",
+              "value": 0,
+              "account_id": "5695842000000090005"
+            },
+            {
+              "name": "Office expenses",
+              "value": 3000,
+              "account_id": "5695842000000089849"
+            },
+            {
+              "name": "Other Expense",
+              "value": 0,
+              "account_id": "5695842000000090011"
+            },
+            {
+              "name": "Other Expenses",
+              "value": 1633.26,
+              "account_id": "5695842000000000460"
+            },
+            {
+              "name": "Payroll Expenses",
+              "value": 5000,
+              "account_id": "5695842000000089873"
+            },
+            {
+              "name": "Purchase Discounts",
+              "value": -2481.13,
+              "account_id": "5695842000000072001"
+            },
+            {
+              "name": "Rent",
+              "value": 10000,
+              "account_id": "5695842000000089885"
+            }
+          ]
+        }
+      ],
+      "operating_profit": 221747.87,
+      "non_operating_revenue": [
+        { "name": "Non Operating Revenue", "value": 0, "line_items": [] }
+      ],
+      "non_operating_expenses": [
+        {
+          "name": "Non Operating Expenses",
+          "value": 0,
+          "line_items": [
+            {
+              "name": "Exchange Gain or Loss",
+              "value": 0,
+              "account_id": "5695842000000000415"
+            }
+          ]
+        }
+      ],
+      "earnings_before_taxes": null,
+      "taxes": null,
+      "net_profit": 221747.87,
+      "custom_fields": null,
+      "updated_at": null
+    },
+    {
+      "rootfi_id": 444148,
+      "rootfi_created_at": "2025-05-26T11:07:23.204Z",
+      "rootfi_updated_at": "2025-05-26T11:07:23.000Z",
+      "rootfi_deleted_at": null,
+      "rootfi_company_id": 19191,
+      "platform_id": "2024-09-01_2024-09-30",
+      "platform_unique_id": null,
+      "currency_id": null,
+      "period_end": "2024-09-30",
+      "period_start": "2024-09-01",
+      "revenue": [
+        {
+          "name": "Operating Revenue",
+          "value": 754200,
+          "line_items": [
+            {
+              "name": "Sales",
+              "value": 0,
+              "account_id": "5695842000000000388"
+            },
+            {
+              "name": "Sales of Product Income",
+              "value": 0,
+              "account_id": "5695842000000090355"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 1",
+              "value": 114500,
+              "account_id": "5695842000000090359"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 2",
+              "value": 41700,
+              "account_id": "5695842000000090363"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 3",
+              "value": 598000,
+              "account_id": "5695842000000090367"
+            },
+            {
+              "name": "Services",
+              "value": 0,
+              "account_id": "5695842000000090383"
+            },
+            {
+              "name": "Shipping Charge",
+              "value": 0,
+              "account_id": "5695842000000014001"
+            }
+          ]
+        }
+      ],
+      "cost_of_goods_sold": [
+        {
+          "name": "Cost of Goods Sold",
+          "value": 508200,
+          "line_items": [
+            {
+              "name": "Cost of sales",
+              "value": 508200,
+              "account_id": "5695842000000090453"
+            }
+          ]
+        }
+      ],
+      "gross_profit": 246000,
+      "operating_expenses": [
+        {
+          "name": "Operating Expenses",
+          "value": 17142.69,
+          "line_items": [
+            {
+              "name": "depreciation of office Equipments",
+              "value": 0,
+              "account_id": "5695842000000090005"
+            },
+            {
+              "name": "Office expenses",
+              "value": 2000,
+              "account_id": "5695842000000089849"
+            },
+            {
+              "name": "Other Expense",
+              "value": 0,
+              "account_id": "5695842000000090011"
+            },
+            {
+              "name": "Other Expenses",
+              "value": 5595.64,
+              "account_id": "5695842000000000460"
+            },
+            {
+              "name": "Payroll Expenses",
+              "value": 5000,
+              "account_id": "5695842000000089873"
+            },
+            {
+              "name": "Purchase Discounts",
+              "value": -5452.95,
+              "account_id": "5695842000000072001"
+            },
+            {
+              "name": "Rent",
+              "value": 10000,
+              "account_id": "5695842000000089885"
+            }
+          ]
+        }
+      ],
+      "operating_profit": 228857.31,
+      "non_operating_revenue": [
+        { "name": "Non Operating Revenue", "value": 0, "line_items": [] }
+      ],
+      "non_operating_expenses": [
+        {
+          "name": "Non Operating Expenses",
+          "value": 0,
+          "line_items": [
+            {
+              "name": "Exchange Gain or Loss",
+              "value": 0,
+              "account_id": "5695842000000000415"
+            }
+          ]
+        }
+      ],
+      "earnings_before_taxes": null,
+      "taxes": null,
+      "net_profit": 228857.31,
+      "custom_fields": null,
+      "updated_at": null
+    },
+    {
+      "rootfi_id": 444149,
+      "rootfi_created_at": "2025-05-26T11:07:23.204Z",
+      "rootfi_updated_at": "2025-05-26T11:07:23.000Z",
+      "rootfi_deleted_at": null,
+      "rootfi_company_id": 19191,
+      "platform_id": "2024-10-01_2024-10-31",
+      "platform_unique_id": null,
+      "currency_id": null,
+      "period_end": "2024-10-31",
+      "period_start": "2024-10-01",
+      "revenue": [
+        {
+          "name": "Operating Revenue",
+          "value": 557200,
+          "line_items": [
+            {
+              "name": "Sales",
+              "value": 0,
+              "account_id": "5695842000000000388"
+            },
+            {
+              "name": "Sales of Product Income",
+              "value": 0,
+              "account_id": "5695842000000090355"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 1",
+              "value": 99500,
+              "account_id": "5695842000000090359"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 2",
+              "value": 35700,
+              "account_id": "5695842000000090363"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 3",
+              "value": 420000,
+              "account_id": "5695842000000090367"
+            },
+            {
+              "name": "Services",
+              "value": 2000,
+              "account_id": "5695842000000090383"
+            },
+            {
+              "name": "Shipping Charge",
+              "value": 0,
+              "account_id": "5695842000000014001"
+            }
+          ]
+        }
+      ],
+      "cost_of_goods_sold": [
+        {
+          "name": "Cost of Goods Sold",
+          "value": 366700,
+          "line_items": [
+            {
+              "name": "Cost of sales",
+              "value": 366700,
+              "account_id": "5695842000000090453"
+            }
+          ]
+        }
+      ],
+      "gross_profit": 190500,
+      "operating_expenses": [
+        {
+          "name": "Operating Expenses",
+          "value": 5882.84,
+          "line_items": [
+            {
+              "name": "depreciation of office Equipments",
+              "value": 200,
+              "account_id": "5695842000000090005"
+            },
+            {
+              "name": "Office expenses",
+              "value": 1000,
+              "account_id": "5695842000000089849"
+            },
+            {
+              "name": "Other Expense",
+              "value": -1000,
+              "account_id": "5695842000000090011"
+            },
+            {
+              "name": "Other Expenses",
+              "value": 6469.36,
+              "account_id": "5695842000000000460"
+            },
+            {
+              "name": "Payroll Expenses",
+              "value": 5000,
+              "account_id": "5695842000000089873"
+            },
+            {
+              "name": "Purchase Discounts",
+              "value": -5786.52,
+              "account_id": "5695842000000072001"
+            },
+            { "name": "Rent", "value": 0, "account_id": "5695842000000089885" }
+          ]
+        }
+      ],
+      "operating_profit": 184617.16,
+      "non_operating_revenue": [
+        { "name": "Non Operating Revenue", "value": 0, "line_items": [] }
+      ],
+      "non_operating_expenses": [
+        {
+          "name": "Non Operating Expenses",
+          "value": 0,
+          "line_items": [
+            {
+              "name": "Exchange Gain or Loss",
+              "value": 0,
+              "account_id": "5695842000000000415"
+            }
+          ]
+        }
+      ],
+      "earnings_before_taxes": null,
+      "taxes": null,
+      "net_profit": 184617.16,
+      "custom_fields": null,
+      "updated_at": null
+    },
+    {
+      "rootfi_id": 444150,
+      "rootfi_created_at": "2025-05-26T11:07:23.204Z",
+      "rootfi_updated_at": "2025-05-26T11:07:23.000Z",
+      "rootfi_deleted_at": null,
+      "rootfi_company_id": 19191,
+      "platform_id": "2024-11-01_2024-11-30",
+      "platform_unique_id": null,
+      "currency_id": null,
+      "period_end": "2024-11-30",
+      "period_start": "2024-11-01",
+      "revenue": [
+        {
+          "name": "Operating Revenue",
+          "value": 0,
+          "line_items": [
+            {
+              "name": "Sales",
+              "value": 0,
+              "account_id": "5695842000000000388"
+            },
+            {
+              "name": "Sales of Product Income",
+              "value": 0,
+              "account_id": "5695842000000090355"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 1",
+              "value": 0,
+              "account_id": "5695842000000090359"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 2",
+              "value": 0,
+              "account_id": "5695842000000090363"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 3",
+              "value": 0,
+              "account_id": "5695842000000090367"
+            },
+            {
+              "name": "Services",
+              "value": 0,
+              "account_id": "5695842000000090383"
+            },
+            {
+              "name": "Shipping Charge",
+              "value": 0,
+              "account_id": "5695842000000014001"
+            }
+          ]
+        }
+      ],
+      "cost_of_goods_sold": [
+        {
+          "name": "Cost of Goods Sold",
+          "value": 0,
+          "line_items": [
+            {
+              "name": "Cost of sales",
+              "value": 0,
+              "account_id": "5695842000000090453"
+            }
+          ]
+        }
+      ],
+      "gross_profit": 0,
+      "operating_expenses": [
+        {
+          "name": "Operating Expenses",
+          "value": 403.99,
+          "line_items": [
+            {
+              "name": "depreciation of office Equipments",
+              "value": 0,
+              "account_id": "5695842000000090005"
+            },
+            {
+              "name": "Office expenses",
+              "value": 0,
+              "account_id": "5695842000000089849"
+            },
+            {
+              "name": "Other Expense",
+              "value": 0,
+              "account_id": "5695842000000090011"
+            },
+            {
+              "name": "Other Expenses",
+              "value": 7763.96,
+              "account_id": "5695842000000000460"
+            },
+            {
+              "name": "Payroll Expenses",
+              "value": 0,
+              "account_id": "5695842000000089873"
+            },
+            {
+              "name": "Purchase Discounts",
+              "value": -7359.97,
+              "account_id": "5695842000000072001"
+            },
+            { "name": "Rent", "value": 0, "account_id": "5695842000000089885" }
+          ]
+        }
+      ],
+      "operating_profit": -403.99,
+      "non_operating_revenue": [
+        { "name": "Non Operating Revenue", "value": 0, "line_items": [] }
+      ],
+      "non_operating_expenses": [
+        {
+          "name": "Non Operating Expenses",
+          "value": 0,
+          "line_items": [
+            {
+              "name": "Exchange Gain or Loss",
+              "value": 0,
+              "account_id": "5695842000000000415"
+            }
+          ]
+        }
+      ],
+      "earnings_before_taxes": null,
+      "taxes": null,
+      "net_profit": -403.99,
+      "custom_fields": null,
+      "updated_at": null
+    },
+    {
+      "rootfi_id": 444151,
+      "rootfi_created_at": "2025-05-26T11:07:23.204Z",
+      "rootfi_updated_at": "2025-05-26T11:07:23.000Z",
+      "rootfi_deleted_at": null,
+      "rootfi_company_id": 19191,
+      "platform_id": "2024-12-01_2024-12-31",
+      "platform_unique_id": null,
+      "currency_id": null,
+      "period_end": "2024-12-31",
+      "period_start": "2024-12-01",
+      "revenue": [
+        {
+          "name": "Operating Revenue",
+          "value": 0,
+          "line_items": [
+            {
+              "name": "Sales",
+              "value": 0,
+              "account_id": "5695842000000000388"
+            },
+            {
+              "name": "Sales of Product Income",
+              "value": 0,
+              "account_id": "5695842000000090355"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 1",
+              "value": 0,
+              "account_id": "5695842000000090359"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 2",
+              "value": 0,
+              "account_id": "5695842000000090363"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 3",
+              "value": 0,
+              "account_id": "5695842000000090367"
+            },
+            {
+              "name": "Services",
+              "value": 0,
+              "account_id": "5695842000000090383"
+            },
+            {
+              "name": "Shipping Charge",
+              "value": 0,
+              "account_id": "5695842000000014001"
+            }
+          ]
+        }
+      ],
+      "cost_of_goods_sold": [
+        {
+          "name": "Cost of Goods Sold",
+          "value": 0,
+          "line_items": [
+            {
+              "name": "Cost of sales",
+              "value": 0,
+              "account_id": "5695842000000090453"
+            }
+          ]
+        }
+      ],
+      "gross_profit": 0,
+      "operating_expenses": [
+        {
+          "name": "Operating Expenses",
+          "value": -341.73,
+          "line_items": [
+            {
+              "name": "depreciation of office Equipments",
+              "value": 0,
+              "account_id": "5695842000000090005"
+            },
+            {
+              "name": "Office expenses",
+              "value": 0,
+              "account_id": "5695842000000089849"
+            },
+            {
+              "name": "Other Expense",
+              "value": 0,
+              "account_id": "5695842000000090011"
+            },
+            {
+              "name": "Other Expenses",
+              "value": 7382.73,
+              "account_id": "5695842000000000460"
+            },
+            {
+              "name": "Payroll Expenses",
+              "value": 0,
+              "account_id": "5695842000000089873"
+            },
+            {
+              "name": "Purchase Discounts",
+              "value": -7724.46,
+              "account_id": "5695842000000072001"
+            },
+            { "name": "Rent", "value": 0, "account_id": "5695842000000089885" }
+          ]
+        }
+      ],
+      "operating_profit": 341.73,
+      "non_operating_revenue": [
+        { "name": "Non Operating Revenue", "value": 0, "line_items": [] }
+      ],
+      "non_operating_expenses": [
+        {
+          "name": "Non Operating Expenses",
+          "value": 0,
+          "line_items": [
+            {
+              "name": "Exchange Gain or Loss",
+              "value": 0,
+              "account_id": "5695842000000000415"
+            }
+          ]
+        }
+      ],
+      "earnings_before_taxes": null,
+      "taxes": null,
+      "net_profit": 341.73,
+      "custom_fields": null,
+      "updated_at": null
+    },
+    {
+      "rootfi_id": 444152,
+      "rootfi_created_at": "2025-05-26T11:07:23.204Z",
+      "rootfi_updated_at": "2025-05-26T11:07:23.000Z",
+      "rootfi_deleted_at": null,
+      "rootfi_company_id": 19191,
+      "platform_id": "2025-01-01_2025-01-31",
+      "platform_unique_id": null,
+      "currency_id": null,
+      "period_end": "2025-01-31",
+      "period_start": "2025-01-01",
+      "revenue": [
+        {
+          "name": "Operating Revenue",
+          "value": 24559,
+          "line_items": [
+            {
+              "name": "Sales",
+              "value": 24559,
+              "account_id": "5695842000000000388"
+            },
+            {
+              "name": "Sales of Product Income",
+              "value": 0,
+              "account_id": "5695842000000090355"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 1",
+              "value": 0,
+              "account_id": "5695842000000090359"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 2",
+              "value": 0,
+              "account_id": "5695842000000090363"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 3",
+              "value": 0,
+              "account_id": "5695842000000090367"
+            },
+            {
+              "name": "Services",
+              "value": 0,
+              "account_id": "5695842000000090383"
+            },
+            {
+              "name": "Shipping Charge",
+              "value": 0,
+              "account_id": "5695842000000014001"
+            }
+          ]
+        }
+      ],
+      "cost_of_goods_sold": [
+        {
+          "name": "Cost of Goods Sold",
+          "value": 0,
+          "line_items": [
+            {
+              "name": "Cost of sales",
+              "value": 0,
+              "account_id": "5695842000000090453"
+            }
+          ]
+        }
+      ],
+      "gross_profit": 24559,
+      "operating_expenses": [
+        {
+          "name": "Operating Expenses",
+          "value": 3571.25,
+          "line_items": [
+            {
+              "name": "depreciation of office Equipments",
+              "value": 0,
+              "account_id": "5695842000000090005"
+            },
+            {
+              "name": "Office expenses",
+              "value": 0,
+              "account_id": "5695842000000089849"
+            },
+            {
+              "name": "Other Expense",
+              "value": 0,
+              "account_id": "5695842000000090011"
+            },
+            {
+              "name": "Other Expenses",
+              "value": 12590.17,
+              "account_id": "5695842000000000460"
+            },
+            {
+              "name": "Payroll Expenses",
+              "value": 0,
+              "account_id": "5695842000000089873"
+            },
+            {
+              "name": "Purchase Discounts",
+              "value": -9018.92,
+              "account_id": "5695842000000072001"
+            },
+            { "name": "Rent", "value": 0, "account_id": "5695842000000089885" }
+          ]
+        }
+      ],
+      "operating_profit": 20987.75,
+      "non_operating_revenue": [
+        { "name": "Non Operating Revenue", "value": 0, "line_items": [] }
+      ],
+      "non_operating_expenses": [
+        {
+          "name": "Non Operating Expenses",
+          "value": 0,
+          "line_items": [
+            {
+              "name": "Exchange Gain or Loss",
+              "value": 0,
+              "account_id": "5695842000000000415"
+            }
+          ]
+        }
+      ],
+      "earnings_before_taxes": null,
+      "taxes": null,
+      "net_profit": 20987.75,
+      "custom_fields": null,
+      "updated_at": null
+    },
+    {
+      "rootfi_id": 444153,
+      "rootfi_created_at": "2025-05-26T11:07:23.204Z",
+      "rootfi_updated_at": "2025-05-26T11:07:23.000Z",
+      "rootfi_deleted_at": null,
+      "rootfi_company_id": 19191,
+      "platform_id": "2025-02-01_2025-02-28",
+      "platform_unique_id": null,
+      "currency_id": null,
+      "period_end": "2025-02-28",
+      "period_start": "2025-02-01",
+      "revenue": [
+        {
+          "name": "Operating Revenue",
+          "value": 19042,
+          "line_items": [
+            {
+              "name": "Sales",
+              "value": 19042,
+              "account_id": "5695842000000000388"
+            },
+            {
+              "name": "Sales of Product Income",
+              "value": 0,
+              "account_id": "5695842000000090355"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 1",
+              "value": 0,
+              "account_id": "5695842000000090359"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 2",
+              "value": 0,
+              "account_id": "5695842000000090363"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 3",
+              "value": 0,
+              "account_id": "5695842000000090367"
+            },
+            {
+              "name": "Services",
+              "value": 0,
+              "account_id": "5695842000000090383"
+            },
+            {
+              "name": "Shipping Charge",
+              "value": 0,
+              "account_id": "5695842000000014001"
+            }
+          ]
+        }
+      ],
+      "cost_of_goods_sold": [
+        {
+          "name": "Cost of Goods Sold",
+          "value": 0,
+          "line_items": [
+            {
+              "name": "Cost of sales",
+              "value": 0,
+              "account_id": "5695842000000090453"
+            }
+          ]
+        }
+      ],
+      "gross_profit": 19042,
+      "operating_expenses": [
+        {
+          "name": "Operating Expenses",
+          "value": 1724.84,
+          "line_items": [
+            {
+              "name": "depreciation of office Equipments",
+              "value": 0,
+              "account_id": "5695842000000090005"
+            },
+            {
+              "name": "Office expenses",
+              "value": 0,
+              "account_id": "5695842000000089849"
+            },
+            {
+              "name": "Other Expense",
+              "value": 0,
+              "account_id": "5695842000000090011"
+            },
+            {
+              "name": "Other Expenses",
+              "value": 7740.37,
+              "account_id": "5695842000000000460"
+            },
+            {
+              "name": "Payroll Expenses",
+              "value": 0,
+              "account_id": "5695842000000089873"
+            },
+            {
+              "name": "Purchase Discounts",
+              "value": -6015.53,
+              "account_id": "5695842000000072001"
+            },
+            { "name": "Rent", "value": 0, "account_id": "5695842000000089885" }
+          ]
+        }
+      ],
+      "operating_profit": 17317.16,
+      "non_operating_revenue": [
+        { "name": "Non Operating Revenue", "value": 0, "line_items": [] }
+      ],
+      "non_operating_expenses": [
+        {
+          "name": "Non Operating Expenses",
+          "value": 0,
+          "line_items": [
+            {
+              "name": "Exchange Gain or Loss",
+              "value": 0,
+              "account_id": "5695842000000000415"
+            }
+          ]
+        }
+      ],
+      "earnings_before_taxes": null,
+      "taxes": null,
+      "net_profit": 17317.16,
+      "custom_fields": null,
+      "updated_at": null
+    },
+    {
+      "rootfi_id": 444154,
+      "rootfi_created_at": "2025-05-26T11:07:23.204Z",
+      "rootfi_updated_at": "2025-05-26T11:07:23.000Z",
+      "rootfi_deleted_at": null,
+      "rootfi_company_id": 19191,
+      "platform_id": "2025-03-01_2025-03-31",
+      "platform_unique_id": null,
+      "currency_id": null,
+      "period_end": "2025-03-31",
+      "period_start": "2025-03-01",
+      "revenue": [
+        {
+          "name": "Operating Revenue",
+          "value": 7329,
+          "line_items": [
+            {
+              "name": "Sales",
+              "value": 7319,
+              "account_id": "5695842000000000388"
+            },
+            {
+              "name": "Sales of Product Income",
+              "value": 0,
+              "account_id": "5695842000000090355"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 1",
+              "value": 0,
+              "account_id": "5695842000000090359"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 2",
+              "value": 0,
+              "account_id": "5695842000000090363"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 3",
+              "value": 0,
+              "account_id": "5695842000000090367"
+            },
+            {
+              "name": "Services",
+              "value": 0,
+              "account_id": "5695842000000090383"
+            },
+            {
+              "name": "Shipping Charge",
+              "value": 10,
+              "account_id": "5695842000000014001"
+            }
+          ]
+        }
+      ],
+      "cost_of_goods_sold": [
+        {
+          "name": "Cost of Goods Sold",
+          "value": 108.11,
+          "line_items": [
+            {
+              "name": "Cost of sales",
+              "value": 108.11,
+              "account_id": "5695842000000090453"
+            }
+          ]
+        }
+      ],
+      "gross_profit": 7220.89,
+      "operating_expenses": [
+        {
+          "name": "Operating Expenses",
+          "value": -659.91,
+          "line_items": [
+            {
+              "name": "depreciation of office Equipments",
+              "value": 0,
+              "account_id": "5695842000000090005"
+            },
+            {
+              "name": "Office expenses",
+              "value": 0,
+              "account_id": "5695842000000089849"
+            },
+            {
+              "name": "Other Expense",
+              "value": 0,
+              "account_id": "5695842000000090011"
+            },
+            {
+              "name": "Other Expenses",
+              "value": 2171.6,
+              "account_id": "5695842000000000460"
+            },
+            {
+              "name": "Payroll Expenses",
+              "value": 0,
+              "account_id": "5695842000000089873"
+            },
+            {
+              "name": "Purchase Discounts",
+              "value": -2831.51,
+              "account_id": "5695842000000072001"
+            },
+            { "name": "Rent", "value": 0, "account_id": "5695842000000089885" }
+          ]
+        }
+      ],
+      "operating_profit": 7880.8,
+      "non_operating_revenue": [
+        { "name": "Non Operating Revenue", "value": 0, "line_items": [] }
+      ],
+      "non_operating_expenses": [
+        {
+          "name": "Non Operating Expenses",
+          "value": 0,
+          "line_items": [
+            {
+              "name": "Exchange Gain or Loss",
+              "value": 0,
+              "account_id": "5695842000000000415"
+            }
+          ]
+        }
+      ],
+      "earnings_before_taxes": null,
+      "taxes": null,
+      "net_profit": 7880.8,
+      "custom_fields": null,
+      "updated_at": null
+    },
+    {
+      "rootfi_id": 444155,
+      "rootfi_created_at": "2025-05-26T11:07:23.204Z",
+      "rootfi_updated_at": "2025-05-26T11:07:23.000Z",
+      "rootfi_deleted_at": null,
+      "rootfi_company_id": 19191,
+      "platform_id": "2025-04-01_2025-04-30",
+      "platform_unique_id": null,
+      "currency_id": null,
+      "period_end": "2025-04-30",
+      "period_start": "2025-04-01",
+      "revenue": [
+        {
+          "name": "Operating Revenue",
+          "value": 0,
+          "line_items": [
+            {
+              "name": "Sales",
+              "value": 0,
+              "account_id": "5695842000000000388"
+            },
+            {
+              "name": "Sales of Product Income",
+              "value": 0,
+              "account_id": "5695842000000090355"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 1",
+              "value": 0,
+              "account_id": "5695842000000090359"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 2",
+              "value": 0,
+              "account_id": "5695842000000090363"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 3",
+              "value": 0,
+              "account_id": "5695842000000090367"
+            },
+            {
+              "name": "Services",
+              "value": 0,
+              "account_id": "5695842000000090383"
+            },
+            {
+              "name": "Shipping Charge",
+              "value": 0,
+              "account_id": "5695842000000014001"
+            }
+          ]
+        }
+      ],
+      "cost_of_goods_sold": [
+        {
+          "name": "Cost of Goods Sold",
+          "value": 0,
+          "line_items": [
+            {
+              "name": "Cost of sales",
+              "value": 0,
+              "account_id": "5695842000000090453"
+            }
+          ]
+        }
+      ],
+      "gross_profit": 0,
+      "operating_expenses": [
+        {
+          "name": "Operating Expenses",
+          "value": 0,
+          "line_items": [
+            {
+              "name": "depreciation of office Equipments",
+              "value": 0,
+              "account_id": "5695842000000090005"
+            },
+            {
+              "name": "Office expenses",
+              "value": 0,
+              "account_id": "5695842000000089849"
+            },
+            {
+              "name": "Other Expense",
+              "value": 0,
+              "account_id": "5695842000000090011"
+            },
+            {
+              "name": "Other Expenses",
+              "value": 0,
+              "account_id": "5695842000000000460"
+            },
+            {
+              "name": "Payroll Expenses",
+              "value": 0,
+              "account_id": "5695842000000089873"
+            },
+            {
+              "name": "Purchase Discounts",
+              "value": 0,
+              "account_id": "5695842000000072001"
+            },
+            { "name": "Rent", "value": 0, "account_id": "5695842000000089885" }
+          ]
+        }
+      ],
+      "operating_profit": 0,
+      "non_operating_revenue": [
+        { "name": "Non Operating Revenue", "value": 0, "line_items": [] }
+      ],
+      "non_operating_expenses": [
+        {
+          "name": "Non Operating Expenses",
+          "value": -37608.92,
+          "line_items": [
+            {
+              "name": "Exchange Gain or Loss",
+              "value": -37608.92,
+              "account_id": "5695842000000000415"
+            }
+          ]
+        }
+      ],
+      "earnings_before_taxes": null,
+      "taxes": null,
+      "net_profit": 37608.92,
+      "custom_fields": null,
+      "updated_at": null
+    },
+    {
+      "rootfi_id": 444156,
+      "rootfi_created_at": "2025-05-26T11:07:23.204Z",
+      "rootfi_updated_at": "2025-05-26T11:07:23.000Z",
+      "rootfi_deleted_at": null,
+      "rootfi_company_id": 19191,
+      "platform_id": "2025-05-01_2025-05-31",
+      "platform_unique_id": null,
+      "currency_id": null,
+      "period_end": "2025-05-31",
+      "period_start": "2025-05-01",
+      "revenue": [
+        {
+          "name": "Operating Revenue",
+          "value": 0,
+          "line_items": [
+            {
+              "name": "Sales",
+              "value": 0,
+              "account_id": "5695842000000000388"
+            },
+            {
+              "name": "Sales of Product Income",
+              "value": 0,
+              "account_id": "5695842000000090355"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 1",
+              "value": 0,
+              "account_id": "5695842000000090359"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 2",
+              "value": 0,
+              "account_id": "5695842000000090363"
+            },
+            {
+              "name": "Sales of Product Income:Sales of Prod 3",
+              "value": 0,
+              "account_id": "5695842000000090367"
+            },
+            {
+              "name": "Services",
+              "value": 0,
+              "account_id": "5695842000000090383"
+            },
+            {
+              "name": "Shipping Charge",
+              "value": 0,
+              "account_id": "5695842000000014001"
+            }
+          ]
+        }
+      ],
+      "cost_of_goods_sold": [
+        {
+          "name": "Cost of Goods Sold",
+          "value": 0,
+          "line_items": [
+            {
+              "name": "Cost of sales",
+              "value": 0,
+              "account_id": "5695842000000090453"
+            }
+          ]
+        }
+      ],
+      "gross_profit": 0,
+      "operating_expenses": [
+        {
+          "name": "Operating Expenses",
+          "value": 0,
+          "line_items": [
+            {
+              "name": "depreciation of office Equipments",
+              "value": 0,
+              "account_id": "5695842000000090005"
+            },
+            {
+              "name": "Office expenses",
+              "value": 0,
+              "account_id": "5695842000000089849"
+            },
+            {
+              "name": "Other Expense",
+              "value": 0,
+              "account_id": "5695842000000090011"
+            },
+            {
+              "name": "Other Expenses",
+              "value": 0,
+              "account_id": "5695842000000000460"
+            },
+            {
+              "name": "Payroll Expenses",
+              "value": 0,
+              "account_id": "5695842000000089873"
+            },
+            {
+              "name": "Purchase Discounts",
+              "value": 0,
+              "account_id": "5695842000000072001"
+            },
+            { "name": "Rent", "value": 0, "account_id": "5695842000000089885" }
+          ]
+        }
+      ],
+      "operating_profit": 0,
+      "non_operating_revenue": [
+        { "name": "Non Operating Revenue", "value": 0, "line_items": [] }
+      ],
+      "non_operating_expenses": [
+        {
+          "name": "Non Operating Expenses",
+          "value": 0,
+          "line_items": [
+            {
+              "name": "Exchange Gain or Loss",
+              "value": 0,
+              "account_id": "5695842000000000415"
+            }
+          ]
+        }
+      ],
+      "earnings_before_taxes": null,
+      "taxes": null,
+      "net_profit": 0,
+      "custom_fields": null,
+      "updated_at": null
+    }
+  ]
+}

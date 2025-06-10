@@ -1,0 +1,72 @@
+generator client {
+    provider = "prisma-client-js"
+}
+
+datasource db {
+    provider = "postgresql"
+    url      = env("DATABASE_URL")
+}
+
+model Company {
+    id            Int             @id @default(autoincrement())
+    name          String
+    configs       CompanyConfig[]
+    financialData FinancialData[]
+    syncJobs      SyncJob[]
+    createdAt     DateTime        @default(now())
+    updatedAt     DateTime        @updatedAt
+}
+
+model CompanyConfig {
+    id               Int       @id @default(autoincrement())
+    company          Company   @relation(fields: [companyId], references: [id])
+    companyId        Int
+    name             String
+    sourceType       String
+    apiEndpoint      String?
+    apiKey           String?
+    apiSecret        String?
+    credentials      Json? // Encrypted credentials if needed
+    fieldMappings    Json // Store field mappings as JSON
+    additionalConfig Json? // Any other configuration needed
+    lastSync         DateTime?
+    createdAt        DateTime  @default(now())
+    updatedAt        DateTime  @updatedAt
+
+    @@unique([companyId, name])
+}
+
+model FinancialData {
+    id           Int      @id @default(autoincrement())
+    company      Company  @relation(fields: [companyId], references: [id])
+    companyId    Int
+    sourceId     Int
+    sourceName   String
+    fromDate     DateTime
+    toDate       DateTime
+    category     String // revenue, expense, etc.
+    subcategory  String? // operating revenue, non-operating revenue, etc.
+    lineItemName String?
+    accountId    String?
+    amount       Decimal
+    originalId   String? // ID from source system
+    metadata     Json? // Additional data that doesn't fit in the schema
+    createdAt    DateTime @default(now())
+    updatedAt    DateTime @updatedAt
+
+    @@index([category, subcategory])
+    @@index([sourceId, sourceName])
+}
+
+model SyncJob {
+    id          Int       @id @default(autoincrement())
+    company     Company   @relation(fields: [companyId], references: [id])
+    companyId   Int
+    sourceId    Int?
+    sourceName  String?
+    status      String // pending, running, completed, failed
+    startedAt   DateTime  @default(now())
+    completedAt DateTime?
+    error       String?
+    metadata    Json?
+}
