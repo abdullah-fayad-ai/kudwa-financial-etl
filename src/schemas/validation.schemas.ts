@@ -42,14 +42,6 @@ export const createCompanyConfigSchema = z.object({
     name: z.string().min(1, "Data source name is required"),
     sourceType: z.string().min(1, "Source type is required"),
     apiEndpoint: z.string().min(1, "API endpoint is required"),
-    apiKey: z.string().optional(),
-    apiSecret: z.string().optional(),
-    fieldMappings: z
-      .record(z.any())
-      .refine((val) => Object.keys(val).length > 0, {
-        message: "Field mappings are required",
-      }),
-    additionalConfig: z.record(z.any()).optional(),
   }),
 });
 
