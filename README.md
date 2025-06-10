@@ -28,7 +28,7 @@ A Node.js application for extracting, transforming, and loading financial data f
 1. Clone the repository:
 
    ```
-   git clone [repository-url]
+   git clone https://github.com/abdullah-fayad-ai/kudwa-financial-etl.git
    cd kudwa-financial-etl
    ```
 
@@ -42,9 +42,8 @@ A Node.js application for extracting, transforming, and loading financial data f
    Create a `.env` file in the root directory with the following variables:
 
    ```
-   DATABASE_URL="postgresql://username:password@localhost:5432/kudwa_financial"
+   DATABASE_URL="postgresql://username:password@localhost:5432/kudwa"
    PORT=5005
-   NODE_ENV=development
    ```
 
 4. Generate Prisma client:
